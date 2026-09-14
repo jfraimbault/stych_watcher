@@ -3,7 +3,7 @@ name: Stych Watcher
 on:
   schedule:
     # Toutes les 15 minutes (syntaxe cron standard)
-    - cron: "*/15 * * * *"
+    - cron: "*/45 * * * *"
   workflow_dispatch: {}  # permet aussi de le lancer manuellement depuis l'onglet Actions
 
 permissions:
@@ -28,7 +28,7 @@ jobs:
         env:
           STYCH_EMAIL: ${{ secrets.STYCH_EMAIL }}
           STYCH_PASSWORD: ${{ secrets.STYCH_PASSWORD }}
-          STYCH_DAYS_AHEAD: "10"
+          STYCH_DAYS_AHEAD: "15"
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
         run: python stych_watcher.py
 
