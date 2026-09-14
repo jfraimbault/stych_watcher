@@ -1,0 +1,41 @@
+name: Stych Watcher
+
+on:
+  schedule:
+    # Toutes les 15 minutes (syntaxe cron standard)
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}  # permet aussi de le lancer manuellement depuis l'onglet Actions
+
+permissions:
+  contents: write  # nécessaire pour re-committer le fichier d'état
+
+jobs:
+  check-slots:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run Stych watcher
+        env:
+          STYCH_EMAIL: ${{ secrets.STYCH_EMAIL }}
+          STYCH_PASSWORD: ${{ secrets.STYCH_PASSWORD }}
+          STYCH_DAYS_AHEAD: "10"
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python stych_watcher.py
+
+      - name: Commit updated state file (si changement)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add stych_seen_slots.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update seen slots [skip ci]"
+          git push
