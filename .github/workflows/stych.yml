@@ -27,7 +27,7 @@ jobs:
         env:
           STYCH_EMAIL: ${{ secrets.STYCH_EMAIL }}
           STYCH_PASSWORD: ${{ secrets.STYCH_PASSWORD }}
-          STYCH_DAYS_AHEAD: "15"
+          STYCH_DAYS_AHEAD: "20"
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
         run: python stych_watcher.py
 
