@@ -30,6 +30,7 @@ LOGIN_ENDPOINT = f"{BASE_URL}/connexion/0/record3"
 EMAIL = os.environ.get("STYCH_EMAIL")
 PASSWORD = os.environ.get("STYCH_PASSWORD")
 DAYS_AHEAD = int(os.environ.get("STYCH_DAYS_AHEAD", "10"))
+NTFY_TOPIC = os.environ.get("NTFY_TOPIC")
 
 # Villes autorisées (le nom doit correspondre au champ "ville" renvoyé par Stych, en majuscules)
 ALLOWED_CITIES = {"ORVAULT", "ST HERBLAIN"}
@@ -145,6 +146,21 @@ def save_seen_slots(keys: set) -> None:
         json.dump(list(keys), f)
 
 
+def send_ntfy(title: str, message: str) -> None:
+    if not NTFY_TOPIC:
+        print("[ntfy] NTFY_TOPIC non configuré, notification non envoyée.")
+        return
+    try:
+        requests.post(
+            f"https://ntfy.sh/{NTFY_TOPIC}",
+            data=message.encode("utf-8"),
+            headers={"Title": title.encode("utf-8")},
+            timeout=10,
+        )
+    except requests.RequestException as e:
+        print(f"[ntfy] Échec de l'envoi : {e}")
+
+
 def notify(new_slots: list) -> None:
     lines = [
         f"{s.get('info_date')} {s.get('heure_debut_fr')}-{s.get('heure_fin_fr')} avec {s.get('moniteur')}"
@@ -153,12 +169,14 @@ def notify(new_slots: list) -> None:
     message = "\n".join(lines)
     title = f"{len(new_slots)} nouveau(x) créneau(x) Stych !"
 
+    send_ntfy(title, message)
+
     if which("termux-notification"):
-        # Notification native Android via Termux:API
+        # Notification native Android via Termux:API (si le script tourne aussi sur Termux)
         safe_message = message.replace('"', "'")[:500]
         os.system(f'termux-notification --title "{title}" --content "{safe_message}"')
     else:
-        # Fallback console, utile pour tester sur Mac avant de déployer sur Termux
+        # Fallback console, utile pour tester sur Mac ou dans les logs GitHub Actions
         print(f"\n🔔 {title}\n{message}\n")
 
 
