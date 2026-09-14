@@ -161,11 +161,28 @@ def send_ntfy(title: str, message: str) -> None:
         print(f"[ntfy] Échec de l'envoi : {e}")
 
 
+JOURS_FR = {
+    0: "Lundi",
+    1: "Mardi",
+    2: "Mercredi",
+    3: "Jeudi",
+    4: "Vendredi",
+    5: "Samedi",
+    6: "Dimanche",
+}
+
+
+def format_slot_line(slot: dict) -> str:
+    try:
+        slot_date = datetime.strptime(slot["info_date"], "%Y-%m-%d")
+        jour = JOURS_FR[slot_date.weekday()]
+    except (ValueError, KeyError, TypeError):
+        jour = "?"
+    return f"{jour} {slot.get('info_date')} {slot.get('heure_debut_fr')}-{slot.get('heure_fin_fr')} avec {slot.get('moniteur')}"
+
+
 def notify(new_slots: list) -> None:
-    lines = [
-        f"{s.get('info_date')} {s.get('heure_debut_fr')}-{s.get('heure_fin_fr')} avec {s.get('moniteur')}"
-        for s in new_slots
-    ]
+    lines = [format_slot_line(s) for s in new_slots]
     message = "\n".join(lines)
     title = f"{len(new_slots)} nouveau(x) créneau(x) Stych !"
 
