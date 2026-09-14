@@ -172,17 +172,40 @@ JOURS_FR = {
 }
 
 
-def format_slot_line(slot: dict) -> str:
-    try:
-        slot_date = datetime.strptime(slot["info_date"], "%Y-%m-%d")
+def format_heure(heure_fr: str) -> str:
+    """Retire les minutes ':00' inutiles, ex: '16h00' -> '16h', '12h45' inchangé."""
+    if heure_fr and heure_fr.endswith("h00"):
+        return heure_fr[:-2]
+    return heure_fr
+
+
+def group_slots_by_day(slots: list) -> list:
+    """Regroupe les créneaux par (date, moniteur), triés par heure, une ligne par groupe."""
+    groups = {}
+    for slot in slots:
+        try:
+            slot_date = datetime.strptime(slot["info_date"], "%Y-%m-%d")
+        except (ValueError, KeyError, TypeError):
+            continue
+        moniteur = slot.get("moniteur", "?")
+        key = (slot_date, moniteur)
+        groups.setdefault(key, []).append(slot)
+
+    lines = []
+    for (slot_date, moniteur), day_slots in sorted(groups.items(), key=lambda kv: (kv[0][0], kv[0][1])):
+        day_slots.sort(key=lambda s: s.get("heure_debut", ""))
+        creneaux = ", ".join(
+            f"{format_heure(s.get('heure_debut_fr'))}-{format_heure(s.get('heure_fin_fr'))}"
+            for s in day_slots
+        )
         jour = JOURS_FR[slot_date.weekday()]
-    except (ValueError, KeyError, TypeError):
-        jour = "?"
-    return f"{jour} {slot.get('info_date')} {slot.get('heure_debut_fr')}-{slot.get('heure_fin_fr')} avec {slot.get('moniteur')}"
+        date_str = slot_date.strftime("%d/%m")
+        lines.append(f"{jour} {date_str}  {creneaux} avec {moniteur}")
+    return lines
 
 
 def notify(new_slots: list) -> None:
-    lines = [format_slot_line(s) for s in new_slots]
+    lines = group_slots_by_day(new_slots)
     message = "\n".join(lines)
     title = f"{len(new_slots)} nouveau(x) créneau(x) Stych !"
 
