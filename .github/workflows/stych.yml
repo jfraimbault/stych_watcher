@@ -2,7 +2,6 @@ name: Stych Watcher
 
 on:
   schedule:
-    # Toutes les 15 minutes (syntaxe cron standard)
     - cron: "*/45 * * * *"
   workflow_dispatch: {}  # permet aussi de le lancer manuellement depuis l'onglet Actions
 
