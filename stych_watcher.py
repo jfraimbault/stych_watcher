@@ -5,7 +5,7 @@ Surveillance des créneaux de conduite disponibles sur Stych.
 Configuration attendue en variables d'environnement :
     STYCH_EMAIL         : ton email de connexion Stych
     STYCH_PASSWORD      : ton mot de passe Stych
-    STYCH_DAYS_AHEAD    : (optionnel) nombre de jours à surveiller, défaut 10
+    STYCH_DAYS_AHEAD    : (optionnel) nombre de jours à surveiller, défaut 10 -
 
 Usage :
     STYCH_EMAIL="toi@mail.com" STYCH_PASSWORD="motdepasse" python3 stych_watcher.py
