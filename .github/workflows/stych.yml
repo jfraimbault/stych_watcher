@@ -2,7 +2,7 @@ name: Stych Watcher
 
 on:
   schedule:
-    - cron: "*/45 * * * *"
+    - cron: "*/30 6-22 * * *"
   workflow_dispatch: {}  # permet aussi de le lancer manuellement depuis l'onglet Actions
 
 permissions:
