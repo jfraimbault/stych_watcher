@@ -30,7 +30,7 @@ LOGIN_ENDPOINT = f"{BASE_URL}/connexion/0/record3"
 EMAIL = os.environ.get("STYCH_EMAIL")
 PASSWORD = os.environ.get("STYCH_PASSWORD")
 DAYS_AHEAD = int(os.environ.get("STYCH_DAYS_AHEAD", "10"))
-#NTFY_TOPIC = os.environ.get("NTFY_TOPIC")
+NTFY_TOPIC = os.environ.get("NTFY_TOPIC")
 
 # Heure minimale de début de créneau, format "HH:MM" (ex: "15:30"). Vide par défaut = pas de restriction.
 MIN_HOUR = os.environ.get("STYCH_MIN_HOUR", "").strip()
