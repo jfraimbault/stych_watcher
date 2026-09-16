@@ -19,7 +19,7 @@ from shutil import which
 
 import requests
 
-# ---- Configuration ----
+# ---- Configuration ----fff
 BASE_URL = "https://www.stych.fr"
 PLANNING_PAGE = f"{BASE_URL}/elearning/planning"
 RESERVATION_PAGE = f"{BASE_URL}/elearning/formation/conduite/reservation"
@@ -32,7 +32,7 @@ PASSWORD = os.environ.get("STYCH_PASSWORD")
 DAYS_AHEAD = int(os.environ.get("STYCH_DAYS_AHEAD", "10"))
 NTFY_TOPIC = os.environ.get("NTFY_TOPIC")
 
-# Heure minimale de début de créneau, format "HH:MM" (ex: "15:30"). Vide par défaut = pas de restriction.
+# Heure minimale de début de créneau, format "HH:MM" (ex: "15:30"). Vide par défaut = pas de restriction.toto
 MIN_HOUR = os.environ.get("STYCH_MIN_HOUR", "").strip()
 
 # Villes autorisées, séparées par des virgules (le nom doit correspondre au champ "ville" renvoyé par Stych)
