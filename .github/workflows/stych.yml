@@ -29,7 +29,7 @@ jobs:
           STYCH_PASSWORD: ${{ secrets.STYCH_PASSWORD }}
           STYCH_DAYS_AHEAD: "20"
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
-          STYCH_ALLOWED_CITIES: "ORVAULT,ST HERBLAIN"
+          STYCH_ALLOWED_CITIES: "ORVAULT,ST HERBLAIN,VERTOU"
           STYCH_MIN_HOUR: "15:30"
         run: python stych_watcher.py
 
