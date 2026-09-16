@@ -5,7 +5,7 @@ Surveillance des créneaux de conduite disponibles sur Stych.
 Configuration attendue en variables d'environnement :
     STYCH_EMAIL         : ton email de connexion Stych
     STYCH_PASSWORD      : ton mot de passe Stych
-    STYCH_DAYS_AHEAD    : (optionnel) nombre de jours à surveiller, défaut 10 -
+    STYCH_DAYS_AHEAD    : (optionnel) nombre de jours à surveiller, défaut 10
 
 Usage :
     STYCH_EMAIL="toi@mail.com" STYCH_PASSWORD="motdepasse" python3 stych_watcher.py
@@ -32,8 +32,16 @@ PASSWORD = os.environ.get("STYCH_PASSWORD")
 DAYS_AHEAD = int(os.environ.get("STYCH_DAYS_AHEAD", "10"))
 NTFY_TOPIC = os.environ.get("NTFY_TOPIC")
 
-# Villes autorisées (le nom doit correspondre au champ "ville" renvoyé par Stych, en majuscules)
-ALLOWED_CITIES = {"ORVAULT", "ST HERBLAIN"}
+# Heure minimale de début de créneau, format "HH:MM" (ex: "15:30"). Vide par défaut = pas de restriction.
+MIN_HOUR = os.environ.get("STYCH_MIN_HOUR", "").strip()
+
+# Villes autorisées, séparées par des virgules (le nom doit correspondre au champ "ville" renvoyé par Stych)
+# Valeur vide ou "*" -> pas de filtre, toutes les villes sont prises
+_raw_cities = os.environ.get("STYCH_ALLOWED_CITIES", "*").strip()
+if _raw_cities in ("", "*"):
+    ALLOWED_CITIES = None
+else:
+    ALLOWED_CITIES = {v.strip().upper() for v in _raw_cities.split(",") if v.strip()}
 
 # Fichier qui garde en mémoire les créneaux déjà vus (à côté du script)
 STATE_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "stych_seen_slots.json")
@@ -103,7 +111,9 @@ def build_city_map(points_de_cours: list) -> dict:
     return {p["id_liste_adresse_cours"]: p.get("ville", "").upper() for p in points_de_cours}
 
 
-def filter_by_city(slots: list, city_map: dict, allowed_cities: set) -> list:
+def filter_by_city(slots: list, city_map: dict, allowed_cities) -> list:
+    if not allowed_cities:  # None ou set vide -> pas de filtre, toutes les villes
+        return slots
     filtered = []
     for slot in slots:
         ville = city_map.get(slot.get("id_lac"), "")
@@ -124,6 +134,67 @@ def filter_by_days_ahead(slots: list, days_ahead: int) -> list:
         if today <= slot_date <= limit:
             filtered.append(slot)
     return filtered
+
+
+VACANCES_API = "https://data.education.gouv.fr/api/explore/v2.1/catalog/datasets/fr-en-calendrier-scolaire/records"
+
+
+def get_annee_scolaire_courante() -> str:
+    """Format 'YYYY-YYYY+1'. La rentrée étant fin août/début septembre, on bascule
+    sur l'année scolaire suivante à partir du mois d'août."""
+    today = datetime.now()
+    if today.month >= 8:
+        return f"{today.year}-{today.year + 1}"
+    return f"{today.year - 1}-{today.year}"
+
+
+def get_vacances_zone_b() -> list:
+    """Récupère les plages de vacances scolaires pour l'académie de Nantes (zone B),
+    année scolaire en cours, via l'API publique data.education.gouv.fr."""
+    annee_scolaire = get_annee_scolaire_courante()
+    where_clause = f'annee_scolaire="{annee_scolaire}" and zones="Zone B" and location="Nantes"'
+    params = {"where": where_clause}
+
+    try:
+        resp = requests.get(VACANCES_API, params=params, timeout=10)
+        resp.raise_for_status()
+        results = resp.json().get("results", [])
+    except (requests.RequestException, ValueError):
+        return []  # en cas d'échec, on continue sans cette info plutôt que de faire planter le script
+
+    plages = []
+    for r in results:
+        start = r.get("start_date")
+        end = r.get("end_date")
+        if start and end:
+            try:
+                plages.append((
+                    datetime.fromisoformat(start[:10]).date(),
+                    datetime.fromisoformat(end[:10]).date(),
+                ))
+            except ValueError:
+                continue
+    return plages
+
+
+def is_in_vacances(date_obj, plages: list) -> bool:
+    return any(start <= date_obj <= end for start, end in plages)
+
+
+def is_eligible_for_booking(slot: dict, vacances_plages: list) -> bool:
+    """Règle : à partir de MIN_HOUR (si défini), sauf pendant les vacances scolaires
+    zone B (journée entière). Si MIN_HOUR est vide, aucune restriction horaire."""
+    if not MIN_HOUR:
+        return True
+
+    try:
+        slot_date = datetime.strptime(slot["info_date"], "%Y-%m-%d").date()
+    except (ValueError, KeyError, TypeError):
+        return False
+
+    if is_in_vacances(slot_date, vacances_plages):
+        return True
+    return (slot.get("heure_debut") or "") >= f"{MIN_HOUR}:00"
 
 
 def slot_key(slot: dict) -> str:
@@ -230,10 +301,13 @@ def main():
     city_slots = filter_by_city(all_slots, city_map, ALLOWED_CITIES)
     upcoming_slots = filter_by_days_ahead(city_slots, DAYS_AHEAD)
 
+    vacances_plages = get_vacances_zone_b()
+    eligible_slots = [s for s in upcoming_slots if is_eligible_for_booking(s, vacances_plages)]
+
     seen_keys = load_seen_slots()
-    current_keys = {slot_key(s) for s in upcoming_slots}
+    current_keys = {slot_key(s) for s in eligible_slots}
     new_keys = current_keys - seen_keys
-    new_slots = [s for s in upcoming_slots if slot_key(s) in new_keys]
+    new_slots = [s for s in eligible_slots if slot_key(s) in new_keys]
 
     if new_slots:
         notify(new_slots)
