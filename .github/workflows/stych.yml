@@ -9,7 +9,7 @@ on:
       days_ahead:
         description: 'Jours à surveiller'
         required: false
-        default: '20'
+        default: '25'
       min_hour:
         description: 'Heure minimale (format HH:MM, vide = pas de restriction)'
         required: false
