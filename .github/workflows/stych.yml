@@ -2,11 +2,25 @@ name: Stych Watcher
 
 on:
   schedule:
-    - cron: "*/30 6-22 * * *"
-  workflow_dispatch: {}  # permet aussi de le lancer manuellement depuis l'onglet Actions
+    # Toutes les 15 minutes (syntaxe cron standard)
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+    inputs:
+      days_ahead:
+        description: 'Jours à surveiller'
+        required: false
+        default: '20'
+      min_hour:
+        description: 'Heure minimale (format HH:MM, vide = pas de restriction)'
+        required: false
+        default: '15:30'
 
 permissions:
   contents: write  # nécessaire pour re-committer le fichier d'état
+
+concurrency:
+  group: stych-watcher
+  cancel-in-progress: false  # on attend que le run précédent finisse, plutôt que de l'annuler
 
 jobs:
   check-slots:
@@ -27,10 +41,10 @@ jobs:
         env:
           STYCH_EMAIL: ${{ secrets.STYCH_EMAIL }}
           STYCH_PASSWORD: ${{ secrets.STYCH_PASSWORD }}
-          STYCH_DAYS_AHEAD: "20"
-          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          STYCH_DAYS_AHEAD: ${{ github.event.inputs.days_ahead || '20' }}
           STYCH_ALLOWED_CITIES: "ORVAULT,ST HERBLAIN"
-          STYCH_MIN_HOUR: "15:30"
+          STYCH_MIN_HOUR: ${{ github.event.inputs.min_hour || '15:30' }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
         run: python stych_watcher.py
 
       - name: Commit updated state file (si changement)
