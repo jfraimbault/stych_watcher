@@ -1,0 +1,45 @@
+name: Stych Available Export
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # toutes les 6h
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: stych-available
+  cancel-in-progress: false
+
+jobs:
+  export-available:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run Stych available export
+        env:
+          STYCH_EMAIL: ${{ secrets.STYCH_EMAIL }}
+          STYCH_PASSWORD: ${{ secrets.STYCH_PASSWORD }}
+          STYCH_DAYS_AHEAD: "90"
+          STYCH_ALLOWED_CITIES: "ORVAULT,ST HERBLAIN"
+          STYCH_MIN_HOUR: "15:30"
+        run: python stych_available_ics.py
+
+      - name: Commit updated available files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add stych_available.json stych_available.ics
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update available slots export [skip ci]"
+          git push
