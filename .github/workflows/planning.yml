@@ -2,7 +2,7 @@ name: Stych Planning Export
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # toutes les 6h
+    - cron: "*/15 * * * *"  # 
   workflow_dispatch: {}
 
 permissions:
