@@ -1,0 +1,42 @@
+name: Stych Planning Export
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # toutes les 6h
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: stych-planning
+  cancel-in-progress: false
+
+jobs:
+  export-planning:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run Stych planning export
+        env:
+          STYCH_EMAIL: ${{ secrets.STYCH_EMAIL }}
+          STYCH_PASSWORD: ${{ secrets.STYCH_PASSWORD }}
+        run: python stych_planning.py
+
+      - name: Commit updated planning files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add stych_planning.json stych_planning.ics
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update planning export [skip ci]"
+          git push
