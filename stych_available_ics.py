@@ -191,7 +191,7 @@ def write_json(slots: list, lieu_map: dict) -> None:
 
 
 def write_ics(enriched: list) -> None:
-    lines = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//Stych Watcher - Disponibles//FR"]
+    lines = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//Stych Watcher - Dispo//FR"]
     for s in enriched:
         try:
             dt_start = datetime.strptime(f"{s['date']} {s['heure_debut']}", "%Y-%m-%d %H:%M:%S")
@@ -204,7 +204,7 @@ def write_ics(enriched: list) -> None:
             f"UID:{uid}@stych-available",
             f"DTSTART:{dt_start.strftime('%Y%m%dT%H%M%S')}",
             f"DTEND:{dt_end.strftime('%Y%m%dT%H%M%S')}",
-            f"SUMMARY:[DISPO] Conduite avec {s['moniteur']}",
+            f"SUMMARY:[DISPO Stych] {s['moniteur']}",
             f"LOCATION:{s['lieu_nom']}, {s['adresse']}, {s['ville']}",
             "END:VEVENT",
         ]
