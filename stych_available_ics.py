@@ -191,23 +191,31 @@ def write_json(slots: list, lieu_map: dict) -> None:
 
 
 def write_ics(enriched: list) -> None:
+    tz = ZoneInfo("Europe/Paris")
     lines = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//Stych Watcher - Dispo//FR"]
+    
     for s in enriched:
         try:
-            dt_start = datetime.strptime(f"{s['date']} {s['heure_debut']}", "%Y-%m-%d %H:%M:%S")
-            dt_end = datetime.strptime(f"{s['date']} {s['heure_fin']}", "%Y-%m-%d %H:%M:%S")
+            dt_start_naive = datetime.strptime(f"{s['date']} {s['heure_debut']}", "%Y-%m-%d %H:%M:%S")
+            dt_end_naive = datetime.strptime(f"{s['date']} {s['heure_fin']}", "%Y-%m-%d %H:%M:%S")
         except (ValueError, KeyError):
             continue
+
+        # Application du fuseau Europe/Paris
+        dt_start = dt_start_naive.replace(tzinfo=tz)
+        dt_end = dt_end_naive.replace(tzinfo=tz)
+
         uid = f"{s['date']}-{s['heure_debut']}-{s['heure_fin']}-{s['ville']}-{s['moniteur']}".replace(" ", "_")
         lines += [
             "BEGIN:VEVENT",
             f"UID:{uid}@stych-available",
-            f"DTSTART:{dt_start.strftime('%Y%m%dT%H%M%S')}",
-            f"DTEND:{dt_end.strftime('%Y%m%dT%H%M%S')}",
+            f"DTSTART;TZID=Europe/Paris:{dt_start.strftime('%Y%m%dT%H%M%S')}",
+            f"DTEND;TZID=Europe/Paris:{dt_end.strftime('%Y%m%dT%H%M%S')}",
             f"SUMMARY:[DISPO Stych] {s['moniteur']}",
             f"LOCATION:{s['lieu_nom']}, {s['adresse']}, {s['ville']}",
             "END:VEVENT",
         ]
+
     lines.append("END:VCALENDAR")
     with open(OUTPUT_ICS, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
