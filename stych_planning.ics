@@ -1,0 +1,109 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Stych Watcher//FR
+BEGIN:VEVENT
+UID:event-drive-7654783@stych-watcher
+DTSTART:20260910T171500
+DTEND:20260910T180000
+SUMMARY:Conduite avec Y Onur
+LOCATION:Francois Mitterand T1, 2 boulevard Francois Mitterand Parking Pizzeria Basilic & Co, ST HERBLAIN
+END:VEVENT
+BEGIN:VEVENT
+UID:event-drive-7654958@stych-watcher
+DTSTART:20260914T173000
+DTEND:20260914T181500
+SUMMARY:Conduite avec Y Onur
+LOCATION:Francois Mitterand T1, 2 boulevard Francois Mitterand Parking Pizzeria Basilic & Co, ST HERBLAIN
+END:VEVENT
+BEGIN:VEVENT
+UID:event-drive-7654790@stych-watcher
+DTSTART:20260916T133000
+DTEND:20260916T141500
+SUMMARY:Conduite avec Y Onur
+LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-drive-7679915@stych-watcher
+DTSTART:20260921T173000
+DTEND:20260921T181500
+SUMMARY:Conduite avec Y Onur
+LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-drive-7677855@stych-watcher
+DTSTART:20260923T133000
+DTEND:20260923T150000
+SUMMARY:Conduite avec Y Onur
+LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-drive-7707419@stych-watcher
+DTSTART:20260928T173000
+DTEND:20260928T190000
+SUMMARY:Conduite avec R Gwendoline
+LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-drive-7707421@stych-watcher
+DTSTART:20260930T143000
+DTEND:20260930T160000
+SUMMARY:Conduite avec R Gwendoline
+LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-drive-7689122@stych-watcher
+DTSTART:20261006T161500
+DTEND:20261006T170000
+SUMMARY:Conduite avec B Philippe
+LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-drive-7710754@stych-watcher
+DTSTART:20261007T161500
+DTEND:20261007T170000
+SUMMARY:Conduite avec R Gwendoline
+LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-drive-7710755@stych-watcher
+DTSTART:20261007T171500
+DTEND:20261007T180000
+SUMMARY:Conduite avec R Gwendoline
+LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-drive-7710158@stych-watcher
+DTSTART:20261010T110000
+DTEND:20261010T123000
+SUMMARY:Conduite avec R Gwendoline
+LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-drive-7714477@stych-watcher
+DTSTART:20261015T174500
+DTEND:20261015T191500
+SUMMARY:Conduite avec R Gwendoline
+LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-drive-7629536@stych-watcher
+DTSTART:20261020T161500
+DTEND:20261020T170000
+SUMMARY:Conduite avec B Philippe
+LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-drive-7710197@stych-watcher
+DTSTART:20261021T130000
+DTEND:20261021T134500
+SUMMARY:Conduite avec R Gwendoline
+LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
+END:VEVENT
+BEGIN:VEVENT
+UID:event-drive-7710857@stych-watcher
+DTSTART:20261104T184500
+DTEND:20261104T201500
+SUMMARY:Conduite avec R Gwendoline
+LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
+END:VEVENT
+END:VCALENDAR
