@@ -17,6 +17,7 @@ import os
 import re
 import json
 from datetime import datetime, timedelta
+from zoneinfo import ZoneInfo
 
 import requests
 
@@ -163,16 +164,24 @@ def write_json(lessons: list) -> None:
         json.dump(lessons, f, ensure_ascii=False, indent=2)
 
 
+
 def write_ics(lessons: list) -> None:
+    tz = ZoneInfo("Europe/Paris")
     lines = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//Stych Watcher//FR"]
     for lesson in lessons:
-        dt_start = datetime.strptime(f"{lesson['date']} {lesson['heure_debut']}", "%Y-%m-%d %H:%M")
-        dt_end = datetime.strptime(f"{lesson['date']} {lesson['heure_fin']}", "%Y-%m-%d %H:%M")
+        # Création des objets datetime naïfs
+        dt_start_naive = datetime.strptime(f"{lesson['date']} {lesson['heure_debut']}", "%Y-%m-%d %H:%M")
+        dt_end_naive = datetime.strptime(f"{lesson['date']} {lesson['heure_fin']}", "%Y-%m-%d %H:%M")
+        
+        # Attribution du fuseau Europe/Paris (gère automatiquement GMT+1 et GMT+2)
+        dt_start = dt_start_naive.replace(tzinfo=tz)
+        dt_end = dt_end_naive.replace(tzinfo=tz)
+
         lines += [
             "BEGIN:VEVENT",
             f"UID:{lesson['id']}@stych-watcher",
-            f"DTSTART:{dt_start.strftime('%Y%m%dT%H%M%S')}",
-            f"DTEND:{dt_end.strftime('%Y%m%dT%H%M%S')}",
+            f"DTSTART;TZID=Europe/Paris:{dt_start.strftime('%Y%m%dT%H%M%S')}",
+            f"DTEND;TZID=Europe/Paris:{dt_end.strftime('%Y%m%dT%H%M%S')}",
             f"SUMMARY:Conduite avec {lesson['moniteur']}",
             f"LOCATION:{lesson['lieu_nom']}, {lesson['adresse']}, {lesson['ville']}",
             "END:VEVENT",
@@ -180,6 +189,7 @@ def write_ics(lessons: list) -> None:
     lines.append("END:VCALENDAR")
     with open(OUTPUT_ICS, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
+
 
 
 def main():
