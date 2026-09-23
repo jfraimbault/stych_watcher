@@ -120,6 +120,16 @@
     "moniteur": "R Gwendoline"
   },
   {
+    "id": "event-drive-7726506",
+    "date": "2026-10-27",
+    "heure_debut": "09:00",
+    "heure_fin": "10:30",
+    "lieu_nom": "Les Facs",
+    "adresse": "21 boulevard Guy Mollet",
+    "ville": "NANTES",
+    "moniteur": "R Gwendoline"
+  },
+  {
     "id": "event-drive-7710857",
     "date": "2026-11-04",
     "heure_debut": "18:45",
@@ -127,6 +137,16 @@
     "lieu_nom": "Le Cardo T2",
     "adresse": "215 route de Rennes - en face de Materiel.net",
     "ville": "ORVAULT",
+    "moniteur": "R Gwendoline"
+  },
+  {
+    "id": "event-drive-7726516",
+    "date": "2026-11-10",
+    "heure_debut": "17:45",
+    "heure_fin": "19:15",
+    "lieu_nom": "Les Facs",
+    "adresse": "21 boulevard Guy Mollet",
+    "ville": "NANTES",
     "moniteur": "R Gwendoline"
   }
 ]
