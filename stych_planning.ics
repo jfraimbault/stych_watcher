@@ -37,20 +37,6 @@ SUMMARY:Conduite avec Y Onur
 LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
 END:VEVENT
 BEGIN:VEVENT
-UID:event-drive-7707419@stych-watcher
-DTSTART;TZID=Europe/Paris:20260928T173000
-DTEND;TZID=Europe/Paris:20260928T190000
-SUMMARY:Conduite avec R Gwendoline
-LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
-END:VEVENT
-BEGIN:VEVENT
-UID:event-drive-7707421@stych-watcher
-DTSTART;TZID=Europe/Paris:20260930T143000
-DTEND;TZID=Europe/Paris:20260930T160000
-SUMMARY:Conduite avec R Gwendoline
-LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
-END:VEVENT
-BEGIN:VEVENT
 UID:event-drive-7689122@stych-watcher
 DTSTART;TZID=Europe/Paris:20261006T161500
 DTEND;TZID=Europe/Paris:20261006T170000
