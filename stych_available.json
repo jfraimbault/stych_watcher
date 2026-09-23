@@ -335,16 +335,7 @@
   {
     "date": "2026-11-12",
     "heure_debut": "16:00:00",
-    "heure_fin": "17:30:00",
-    "moniteur": "Gwendoline R.",
-    "lieu_nom": "Le Cardo T2",
-    "adresse": "215 route de Rennes - en face de Materiel.net",
-    "ville": "ORVAULT"
-  },
-  {
-    "date": "2026-11-12",
-    "heure_debut": "16:45:00",
-    "heure_fin": "17:30:00",
+    "heure_fin": "16:45:00",
     "moniteur": "Gwendoline R.",
     "lieu_nom": "Le Cardo T2",
     "adresse": "215 route de Rennes - en face de Materiel.net",
@@ -353,16 +344,7 @@
   {
     "date": "2026-11-12",
     "heure_debut": "17:45:00",
-    "heure_fin": "19:15:00",
-    "moniteur": "Gwendoline R.",
-    "lieu_nom": "Le Cardo T2",
-    "adresse": "215 route de Rennes - en face de Materiel.net",
-    "ville": "ORVAULT"
-  },
-  {
-    "date": "2026-11-12",
-    "heure_debut": "18:30:00",
-    "heure_fin": "19:15:00",
+    "heure_fin": "18:30:00",
     "moniteur": "Gwendoline R.",
     "lieu_nom": "Le Cardo T2",
     "adresse": "215 route de Rennes - en face de Materiel.net",
@@ -389,16 +371,7 @@
   {
     "date": "2026-11-16",
     "heure_debut": "17:30:00",
-    "heure_fin": "19:00:00",
-    "moniteur": "Gwendoline R.",
-    "lieu_nom": "Le Cardo T2",
-    "adresse": "215 route de Rennes - en face de Materiel.net",
-    "ville": "ORVAULT"
-  },
-  {
-    "date": "2026-11-16",
-    "heure_debut": "18:15:00",
-    "heure_fin": "19:00:00",
+    "heure_fin": "18:15:00",
     "moniteur": "Gwendoline R.",
     "lieu_nom": "Le Cardo T2",
     "adresse": "215 route de Rennes - en face de Materiel.net",
@@ -495,45 +468,9 @@
     "ville": "ORVAULT"
   },
   {
-    "date": "2026-11-19",
-    "heure_debut": "16:00:00",
-    "heure_fin": "16:45:00",
-    "moniteur": "Gwendoline R.",
-    "lieu_nom": "Le Cardo T2",
-    "adresse": "215 route de Rennes - en face de Materiel.net",
-    "ville": "ORVAULT"
-  },
-  {
-    "date": "2026-12-03",
-    "heure_debut": "16:15:00",
-    "heure_fin": "17:00:00",
-    "moniteur": "Philippe B.",
-    "lieu_nom": "Le Cardo T2",
-    "adresse": "215 route de Rennes - en face de Materiel.net",
-    "ville": "ORVAULT"
-  },
-  {
-    "date": "2026-12-08",
+    "date": "2026-12-17",
     "heure_debut": "15:30:00",
     "heure_fin": "16:15:00",
-    "moniteur": "Philippe B.",
-    "lieu_nom": "Le Cardo T2",
-    "adresse": "215 route de Rennes - en face de Materiel.net",
-    "ville": "ORVAULT"
-  },
-  {
-    "date": "2026-12-17",
-    "heure_debut": "15:30:00",
-    "heure_fin": "17:00:00",
-    "moniteur": "Philippe B.",
-    "lieu_nom": "Le Cardo T2",
-    "adresse": "215 route de Rennes - en face de Materiel.net",
-    "ville": "ORVAULT"
-  },
-  {
-    "date": "2026-12-17",
-    "heure_debut": "16:15:00",
-    "heure_fin": "17:00:00",
     "moniteur": "Philippe B.",
     "lieu_nom": "Le Cardo T2",
     "adresse": "215 route de Rennes - en face de Materiel.net",

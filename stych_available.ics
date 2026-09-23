@@ -261,30 +261,16 @@ SUMMARY:[DISPO Stych] Philippe B.
 LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-12-16:00:00-17:30:00-ORVAULT-Gwendoline_R.@stych-available
+UID:2026-11-12-16:00:00-16:45:00-ORVAULT-Gwendoline_R.@stych-available
 DTSTART;TZID=Europe/Paris:20261112T160000
-DTEND;TZID=Europe/Paris:20261112T173000
+DTEND;TZID=Europe/Paris:20261112T164500
 SUMMARY:[DISPO Stych] Gwendoline R.
 LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-12-16:45:00-17:30:00-ORVAULT-Gwendoline_R.@stych-available
-DTSTART;TZID=Europe/Paris:20261112T164500
-DTEND;TZID=Europe/Paris:20261112T173000
-SUMMARY:[DISPO Stych] Gwendoline R.
-LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-12-17:45:00-19:15:00-ORVAULT-Gwendoline_R.@stych-available
+UID:2026-11-12-17:45:00-18:30:00-ORVAULT-Gwendoline_R.@stych-available
 DTSTART;TZID=Europe/Paris:20261112T174500
-DTEND;TZID=Europe/Paris:20261112T191500
-SUMMARY:[DISPO Stych] Gwendoline R.
-LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-12-18:30:00-19:15:00-ORVAULT-Gwendoline_R.@stych-available
-DTSTART;TZID=Europe/Paris:20261112T183000
-DTEND;TZID=Europe/Paris:20261112T191500
+DTEND;TZID=Europe/Paris:20261112T183000
 SUMMARY:[DISPO Stych] Gwendoline R.
 LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
 END:VEVENT
@@ -303,16 +289,9 @@ SUMMARY:[DISPO Stych] Gwendoline R.
 LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-16-17:30:00-19:00:00-ORVAULT-Gwendoline_R.@stych-available
+UID:2026-11-16-17:30:00-18:15:00-ORVAULT-Gwendoline_R.@stych-available
 DTSTART;TZID=Europe/Paris:20261116T173000
-DTEND;TZID=Europe/Paris:20261116T190000
-SUMMARY:[DISPO Stych] Gwendoline R.
-LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-16-18:15:00-19:00:00-ORVAULT-Gwendoline_R.@stych-available
-DTSTART;TZID=Europe/Paris:20261116T181500
-DTEND;TZID=Europe/Paris:20261116T190000
+DTEND;TZID=Europe/Paris:20261116T181500
 SUMMARY:[DISPO Stych] Gwendoline R.
 LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
 END:VEVENT
@@ -387,37 +366,9 @@ SUMMARY:[DISPO Stych] Gwendoline R.
 LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-19-16:00:00-16:45:00-ORVAULT-Gwendoline_R.@stych-available
-DTSTART;TZID=Europe/Paris:20261119T160000
-DTEND;TZID=Europe/Paris:20261119T164500
-SUMMARY:[DISPO Stych] Gwendoline R.
-LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-12-03-16:15:00-17:00:00-ORVAULT-Philippe_B.@stych-available
-DTSTART;TZID=Europe/Paris:20261203T161500
-DTEND;TZID=Europe/Paris:20261203T170000
-SUMMARY:[DISPO Stych] Philippe B.
-LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-12-08-15:30:00-16:15:00-ORVAULT-Philippe_B.@stych-available
-DTSTART;TZID=Europe/Paris:20261208T153000
-DTEND;TZID=Europe/Paris:20261208T161500
-SUMMARY:[DISPO Stych] Philippe B.
-LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-12-17-15:30:00-17:00:00-ORVAULT-Philippe_B.@stych-available
+UID:2026-12-17-15:30:00-16:15:00-ORVAULT-Philippe_B.@stych-available
 DTSTART;TZID=Europe/Paris:20261217T153000
-DTEND;TZID=Europe/Paris:20261217T170000
-SUMMARY:[DISPO Stych] Philippe B.
-LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-12-17-16:15:00-17:00:00-ORVAULT-Philippe_B.@stych-available
-DTSTART;TZID=Europe/Paris:20261217T161500
-DTEND;TZID=Europe/Paris:20261217T170000
+DTEND;TZID=Europe/Paris:20261217T161500
 SUMMARY:[DISPO Stych] Philippe B.
 LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
 END:VEVENT
