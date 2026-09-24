@@ -79,9 +79,9 @@ SUMMARY:Conduite avec B Philippe
 LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
 END:VEVENT
 BEGIN:VEVENT
-UID:event-drive-7710197@stych-watcher
-DTSTART;TZID=Europe/Paris:20261021T130000
-DTEND;TZID=Europe/Paris:20261021T134500
+UID:event-drive-7730173@stych-watcher
+DTSTART;TZID=Europe/Paris:20261026T093000
+DTEND;TZID=Europe/Paris:20261026T101500
 SUMMARY:Conduite avec R Gwendoline
 LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
 END:VEVENT
