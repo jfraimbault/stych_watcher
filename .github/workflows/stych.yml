@@ -9,7 +9,7 @@ on:
       days_ahead:
         description: 'Jours à surveiller'
         required: false
-        default: '35'
+        default: '45'
       min_hour:
         description: 'Heure minimale (format HH:MM, vide = pas de restriction)'
         required: false
@@ -41,7 +41,7 @@ jobs:
         env:
           STYCH_EMAIL: ${{ secrets.STYCH_EMAIL }}
           STYCH_PASSWORD: ${{ secrets.STYCH_PASSWORD }}
-          STYCH_DAYS_AHEAD: ${{ github.event.inputs.days_ahead || '35' }}
+          STYCH_DAYS_AHEAD: ${{ github.event.inputs.days_ahead || '45' }}
           STYCH_ALLOWED_CITIES: "ORVAULT,ST HERBLAIN"
           STYCH_MIN_HOUR: ${{ github.event.inputs.min_hour || '15:30' }}
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
