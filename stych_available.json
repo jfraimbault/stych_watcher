@@ -10,6 +10,24 @@
   },
   {
     "date": "2026-10-26",
+    "heure_debut": "12:00:00",
+    "heure_fin": "12:45:00",
+    "moniteur": "Gwendoline R.",
+    "lieu_nom": "Le Cardo T2",
+    "adresse": "215 route de Rennes - en face de Materiel.net",
+    "ville": "ORVAULT"
+  },
+  {
+    "date": "2026-10-26",
+    "heure_debut": "12:45:00",
+    "heure_fin": "13:30:00",
+    "moniteur": "Gwendoline R.",
+    "lieu_nom": "Le Cardo T2",
+    "adresse": "215 route de Rennes - en face de Materiel.net",
+    "ville": "ORVAULT"
+  },
+  {
+    "date": "2026-10-26",
     "heure_debut": "16:45:00",
     "heure_fin": "17:30:00",
     "moniteur": "Gwendoline R.",
