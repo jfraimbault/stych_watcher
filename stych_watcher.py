@@ -281,14 +281,8 @@ def notify(new_slots: list) -> None:
     title = f"{len(new_slots)} nouveau(x) créneau(x) Stych !"
 
     send_ntfy(title, message)
-
-    if which("termux-notification"):
-        # Notification native Android via Termux:API (si le script tourne aussi sur Termux)
-        safe_message = message.replace('"', "'")[:500]
-        os.system(f'termux-notification --title "{title}" --content "{safe_message}"')
-    else:
-        # Fallback console, utile pour tester sur Mac ou dans les logs GitHub Actions
-        print(f"\n🔔 {title}\n{message}\n")
+    
+    print(f"\n🔔 {title}\n{message}\n")
 
 
 def main():
