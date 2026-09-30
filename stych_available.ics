@@ -1,18 +1,4 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Stych Watcher - Dispo//FR
-BEGIN:VEVENT
-UID:2026-12-17-15:30:00-16:15:00-ORVAULT-Philippe_B.@stych-available
-DTSTART;TZID=Europe/Paris:20261217T153000
-DTEND;TZID=Europe/Paris:20261217T161500
-SUMMARY:[DISPO Stych] Philippe B.
-LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-12-29-08:15:00-09:00:00-ORVAULT-Philippe_B.@stych-available
-DTSTART;TZID=Europe/Paris:20261229T081500
-DTEND;TZID=Europe/Paris:20261229T090000
-SUMMARY:[DISPO Stych] Philippe B.
-LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
-END:VEVENT
 END:VCALENDAR
