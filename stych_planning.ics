@@ -2,41 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Stych Watcher//FR
 BEGIN:VEVENT
-UID:event-drive-7654783@stych-watcher
-DTSTART;TZID=Europe/Paris:20260910T171500
-DTEND;TZID=Europe/Paris:20260910T180000
-SUMMARY:Conduite avec Y Onur
-LOCATION:Francois Mitterand T1, 2 boulevard Francois Mitterand Parking Pizzeria Basilic & Co, ST HERBLAIN
-END:VEVENT
-BEGIN:VEVENT
-UID:event-drive-7654958@stych-watcher
-DTSTART;TZID=Europe/Paris:20260914T173000
-DTEND;TZID=Europe/Paris:20260914T181500
-SUMMARY:Conduite avec Y Onur
-LOCATION:Francois Mitterand T1, 2 boulevard Francois Mitterand Parking Pizzeria Basilic & Co, ST HERBLAIN
-END:VEVENT
-BEGIN:VEVENT
-UID:event-drive-7654790@stych-watcher
-DTSTART;TZID=Europe/Paris:20260916T133000
-DTEND;TZID=Europe/Paris:20260916T141500
-SUMMARY:Conduite avec Y Onur
-LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
-END:VEVENT
-BEGIN:VEVENT
-UID:event-drive-7679915@stych-watcher
-DTSTART;TZID=Europe/Paris:20260921T173000
-DTEND;TZID=Europe/Paris:20260921T181500
-SUMMARY:Conduite avec Y Onur
-LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
-END:VEVENT
-BEGIN:VEVENT
-UID:event-drive-7677855@stych-watcher
-DTSTART;TZID=Europe/Paris:20260923T133000
-DTEND;TZID=Europe/Paris:20260923T150000
-SUMMARY:Conduite avec Y Onur
-LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
-END:VEVENT
-BEGIN:VEVENT
 UID:event-drive-7710754@stych-watcher
 DTSTART;TZID=Europe/Paris:20261007T161500
 DTEND;TZID=Europe/Paris:20261007T170000
