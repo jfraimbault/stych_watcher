@@ -6,7 +6,7 @@ exception vacances scolaires), sur une fenêtre de jours donnée.
 
 Configuration en variables d'environnement (mêmes noms que stych_watcher.py) :
     STYCH_EMAIL, STYCH_PASSWORD
-    STYCH_DAYS_AHEAD       (défaut: 90)
+    STYCH_DAYS_AHEAD       (défaut: 120)
     STYCH_ALLOWED_CITIES   (défaut: * = toutes les villes)
     STYCH_MIN_HOUR         (défaut: vide = pas de restriction)
 
@@ -30,7 +30,7 @@ LOGIN_ENDPOINT = f"{BASE_URL}/connexion/0/record3"
 
 EMAIL = os.environ.get("STYCH_EMAIL")
 PASSWORD = os.environ.get("STYCH_PASSWORD")
-DAYS_AHEAD = int(os.environ.get("STYCH_DAYS_AHEAD", "90"))
+DAYS_AHEAD = int(os.environ.get("STYCH_DAYS_AHEAD", "120"))
 MIN_HOUR = os.environ.get("STYCH_MIN_HOUR", "").strip()
 
 _raw_cities = os.environ.get("STYCH_ALLOWED_CITIES", "*").strip()
