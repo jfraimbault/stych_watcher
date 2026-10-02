@@ -31,7 +31,7 @@ jobs:
         env:
           STYCH_EMAIL: ${{ secrets.STYCH_EMAIL }}
           STYCH_PASSWORD: ${{ secrets.STYCH_PASSWORD }}
-          STYCH_DAYS_AHEAD: "90"
+          STYCH_DAYS_AHEAD: "120"
           STYCH_ALLOWED_CITIES: "ORVAULT,ST HERBLAIN"
           STYCH_MIN_HOUR: "15:30"
         run: python stych_available_ics.py
