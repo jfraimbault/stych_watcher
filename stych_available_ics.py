@@ -224,22 +224,29 @@ def write_ics(enriched: list) -> None:
 
 def main():
     session = requests.Session()
-    login(session)
-    csrf_token = get_csrf_token(session)
-    all_slots, points_de_cours = get_available_slots(session, csrf_token)
-    lieu_map = build_lieu_map(points_de_cours)
+    try: 
+        login(session)
+        csrf_token = get_csrf_token(session)
+        all_slots, points_de_cours = get_available_slots(session, csrf_token)
+        lieu_map = build_lieu_map(points_de_cours)
 
-    city_slots = filter_by_city(all_slots, lieu_map, ALLOWED_CITIES)
-    upcoming_slots = filter_by_days_ahead(city_slots, DAYS_AHEAD)
+        city_slots = filter_by_city(all_slots, lieu_map, ALLOWED_CITIES)
+        upcoming_slots = filter_by_days_ahead(city_slots, DAYS_AHEAD)
 
-    vacances_plages = get_vacances_zone_b()
-    eligible_slots = [s for s in upcoming_slots if is_eligible_for_booking(s, vacances_plages)]
+        vacances_plages = get_vacances_zone_b()
+        eligible_slots = [s for s in upcoming_slots if is_eligible_for_booking(s, vacances_plages)]
 
-    print(f"{len(eligible_slots)} créneau(x) disponible(s) éligible(s) trouvé(s).")
-    enriched = write_json(eligible_slots, lieu_map)
-    write_ics(enriched)
-    print(f"Fichiers générés : {OUTPUT_JSON} et {OUTPUT_ICS}")
+        print(f"{len(eligible_slots)} créneau(x) disponible(s) éligible(s) trouvé(s).")
+        enriched = write_json(eligible_slots, lieu_map)
+        write_ics(enriched)
+        print(f"Fichiers générés : {OUTPUT_JSON} et {OUTPUT_ICS}")
 
-
+    except RuntimeError as e:
+        if "token_csrf" in str(e):
+            print(f"WARNING: {e} - Skipping this run, will retry next time.")
+            # Don't raise - let the workflow succeed
+        else:
+            raise
+            
 if __name__ == "__main__":
     main()
