@@ -194,24 +194,31 @@ def write_ics(lessons: list) -> None:
 
 def main():
     session = requests.Session()
-    login(session)
-    lessons = get_all_lessons(session, nb_mois=7)
+    try:
+      login(session)
+      lessons = get_all_lessons(session, nb_mois=7)
 
-    if not lessons:
-        print("Aucun cours trouvé dans le planning (ou structure de page différente de celle attendue).")
-        return
+      if not lessons:
+          print("Aucun cours trouvé dans le planning (ou structure de page différente de celle attendue).")
+          return
 
-    print(f"{len(lessons)} cours trouvé(s) :\n")
-    for lesson in lessons:
-        print(
-            f"{lesson['date']} {lesson['heure_debut']}-{lesson['heure_fin']} "
-            f"avec {lesson['moniteur']} — {lesson['lieu_nom']} ({lesson['ville']})"
-        )
+      print(f"{len(lessons)} cours trouvé(s) :\n")
+      for lesson in lessons:
+          print(
+              f"{lesson['date']} {lesson['heure_debut']}-{lesson['heure_fin']} "
+              f"avec {lesson['moniteur']} — {lesson['lieu_nom']} ({lesson['ville']})"
+          )
 
-    write_json(lessons)
-    write_ics(lessons)
-    print(f"\nFichiers générés : {OUTPUT_JSON} et {OUTPUT_ICS}")
+      write_json(lessons)
+      write_ics(lessons)
+      print(f"\nFichiers générés : {OUTPUT_JSON} et {OUTPUT_ICS}")
 
-
+    except RuntimeError as e:
+        if "token_csrf" in str(e):
+            print(f"WARNING: {e} - Skipping this run, will retry next time.")
+            # Don't raise - let the workflow succeed
+        else:
+            raise
+          
 if __name__ == "__main__":
     main()
