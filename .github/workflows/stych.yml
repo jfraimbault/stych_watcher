@@ -41,7 +41,7 @@ jobs:
           STYCH_EMAIL: ${{ secrets.STYCH_EMAIL }}
           STYCH_PASSWORD: ${{ secrets.STYCH_PASSWORD }}
           STYCH_DAYS_AHEAD: ${{ github.event.inputs.days_ahead || '45' }}
-          STYCH_ALLOWED_CITIES: "ORVAULT,ST HERBLAIN"
+          STYCH_ALLOWED_CITIES: "POITIERS" #"ORVAULT,ST HERBLAIN"
           STYCH_MIN_HOUR: ${{ github.event.inputs.min_hour || '15:30' }}
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
         run: python stych_watcher.py
