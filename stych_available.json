@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-10-23",
+    "heure_debut": "12:00:00",
+    "heure_fin": "12:45:00",
+    "moniteur": "Philippe B.",
+    "lieu_nom": "Le Cardo T2",
+    "adresse": "215 route de Rennes - en face de Materiel.net",
+    "ville": "ORVAULT"
+  },
+  {
     "date": "2027-01-12",
     "heure_debut": "15:30:00",
     "heure_fin": "17:00:00",
