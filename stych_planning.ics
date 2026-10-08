@@ -16,6 +16,13 @@ SUMMARY:Conduite avec R Gwendoline
 LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
 END:VEVENT
 BEGIN:VEVENT
+UID:event-drive-7794633@stych-watcher
+DTSTART;TZID=Europe/Paris:20261013T164500
+DTEND;TZID=Europe/Paris:20261013T173000
+SUMMARY:Conduite avec R Gwendoline
+LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
+END:VEVENT
+BEGIN:VEVENT
 UID:event-drive-7714477@stych-watcher
 DTSTART;TZID=Europe/Paris:20261015T174500
 DTEND;TZID=Europe/Paris:20261015T191500
@@ -63,12 +70,5 @@ DTSTART;TZID=Europe/Paris:20261110T174500
 DTEND;TZID=Europe/Paris:20261110T191500
 SUMMARY:Conduite avec R Gwendoline
 LOCATION:Les Facs, 21 boulevard Guy Mollet, NANTES
-END:VEVENT
-BEGIN:VEVENT
-UID:event-drive-7792273@stych-watcher
-DTSTART;TZID=Europe/Paris:20270112T161500
-DTEND;TZID=Europe/Paris:20270112T174500
-SUMMARY:Conduite avec B Philippe
-LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
 END:VEVENT
 END:VCALENDAR
