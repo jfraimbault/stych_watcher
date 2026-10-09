@@ -40,6 +40,16 @@
     "moniteur": "R Gwendoline"
   },
   {
+    "id": "event-drive-7798910",
+    "date": "2026-10-19",
+    "heure_debut": "11:30",
+    "heure_fin": "12:15",
+    "lieu_nom": "Le Cardo T2",
+    "adresse": "215 route de Rennes - en face de Materiel.net",
+    "ville": "ORVAULT",
+    "moniteur": "B Philippe"
+  },
+  {
     "id": "event-drive-7629536",
     "date": "2026-10-20",
     "heure_debut": "16:15",
