@@ -78,7 +78,6 @@ def get_csrf_token(session: requests.Session) -> str:
     resp = session.get(RESERVATION_PAGE, headers=HEADERS_PAGE)
     resp.raise_for_status()
     match = re.search(r"token_csrf['\"]?\s*:\s*['\"]([a-f0-9]+)['\"]", resp.text)
-    match = False
     if not match:
         raise RuntimeError("Impossible de trouver le token_csrf sur la page réservation.")
     return match.group(1)
