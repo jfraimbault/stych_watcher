@@ -8,7 +8,7 @@ on:
       days_ahead:
         description: 'Jours à surveiller'
         required: false
-        default: '45'
+        default: '90'
       min_hour:
         description: 'Heure minimale (format HH:MM, vide = pas de restriction)'
         required: false
