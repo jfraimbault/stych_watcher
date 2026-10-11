@@ -5,7 +5,7 @@ Surveillance des créneaux de conduite disponibles sur Stych.
 Configuration attendue en variables d'environnement :
     STYCH_EMAIL         : ton email de connexion Stych
     STYCH_PASSWORD      : ton mot de passe Stych
-    STYCH_DAYS_AHEAD    : (optionnel) nombre de jours à surveiller, défaut 10
+    STYCH_DAYS_AHEAD    : (optionnel) nombre de jours à surveiller
 
 Usage :
     STYCH_EMAIL="toi@mail.com" STYCH_PASSWORD="motdepasse" python3 stych_watcher.py
@@ -22,14 +22,15 @@ import requests
 # ---- Configuration ----
 BASE_URL = "https://www.stych.fr"
 PLANNING_PAGE = f"{BASE_URL}/elearning/planning"
-RESERVATION_PAGE = f"{BASE_URL}/elearning/formation/conduite/reservation"
+# RESERVATION_PAGE = f"{BASE_URL}/elearning/formation/conduite/reservation"
+RESERVATION_PAGE = f"{BASE_URL}/elearning/formation-home"
 PROPOSITION_ENDPOINT = f"{BASE_URL}/elearning/planning-conduite/get-planning-proposition"
 CHECK_AUTH_ENDPOINT = f"{BASE_URL}/check-auth"
 LOGIN_ENDPOINT = f"{BASE_URL}/connexion/0/record3"
 
 EMAIL = os.environ.get("STYCH_EMAIL")
 PASSWORD = os.environ.get("STYCH_PASSWORD")
-DAYS_AHEAD = int(os.environ.get("STYCH_DAYS_AHEAD", "10"))
+DAYS_AHEAD = int(os.environ.get("STYCH_DAYS_AHEAD", "60"))
 NTFY_TOPIC = os.environ.get("NTFY_TOPIC")
 
 # Heure minimale de début de créneau, format "HH:MM" (ex: "15:30"). Vide par défaut = pas de restriction.
