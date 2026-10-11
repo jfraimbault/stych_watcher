@@ -60,16 +60,6 @@
     "moniteur": "R Gwendoline"
   },
   {
-    "id": "event-drive-7726506",
-    "date": "2026-10-27",
-    "heure_debut": "09:00",
-    "heure_fin": "10:30",
-    "lieu_nom": "Les Facs",
-    "adresse": "21 boulevard Guy Mollet",
-    "ville": "NANTES",
-    "moniteur": "R Gwendoline"
-  },
-  {
     "id": "event-drive-7739618",
     "date": "2026-11-02",
     "heure_debut": "17:30",
