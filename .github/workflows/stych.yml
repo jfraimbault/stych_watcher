@@ -1,52 +1,55 @@
-name: Stych Watcher
 
+name: Stych Watcher
+ 
 on:
   schedule:
+    # Toutes les 15 minutes (syntaxe cron standard)
     - cron: "*/5 * * * *"
   workflow_dispatch:
     inputs:
       days_ahead:
         description: 'Jours à surveiller'
         required: false
-        default: '90'
+        default: '60'
       min_hour:
         description: 'Heure minimale (format HH:MM, vide = pas de restriction)'
         required: false
-        default: '15:30'
-
+        default: ''
+ 
 permissions:
   contents: write  # nécessaire pour re-committer le fichier d'état
-
+ 
 concurrency:
   group: stych-watcher
   cancel-in-progress: false  # on attend que le run précédent finisse, plutôt que de l'annuler
-
+ 
 jobs:
   check-slots:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
-
+ 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-
+ 
       - name: Install dependencies
         run: pip install requests
-
+ 
       - name: Run Stych watcher
         env:
           STYCH_EMAIL: ${{ secrets.STYCH_EMAIL }}
           STYCH_PASSWORD: ${{ secrets.STYCH_PASSWORD }}
           STYCH_DAYS_AHEAD: ${{ github.event.inputs.days_ahead || '60' }}
           STYCH_ALLOWED_CITIES: "ORVAULT,ST HERBLAIN"
-          STYCH_MIN_HOUR: ${{ github.event.inputs.min_hour || '15:30' }}
+          STYCH_MIN_HOUR: ${{ github.event.inputs.min_hour || '' }}
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
         run: python stych_watcher.py
-
+ 
       - name: Commit updated state file (si changement)
+        if: ${{ !cancelled() }}  # aussi quand le script a échoué, pour mémoriser la panne de token
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
