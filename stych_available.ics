@@ -169,4 +169,11 @@ DTEND;TZID=Europe/Paris:20270209T174500
 SUMMARY:[DISPO Stych] Philippe B.
 LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
 END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-11-15:30:00-16:15:00-ORVAULT-Philippe_B.@stych-available
+DTSTART;TZID=Europe/Paris:20270211T153000
+DTEND;TZID=Europe/Paris:20270211T161500
+SUMMARY:[DISPO Stych] Philippe B.
+LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
+END:VEVENT
 END:VCALENDAR
