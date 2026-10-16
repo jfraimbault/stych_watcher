@@ -42,7 +42,7 @@ jobs:
 
       - name: Decide and notify
         env:
-          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC_NIU }}
         run: |
           read CHG A B < reading.txt
           MIN=$(( A < B ? A : B ))
