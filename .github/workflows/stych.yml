@@ -4,7 +4,7 @@ name: Stych Watcher
 on:
   schedule:
     # Toutes les 15 minutes (syntaxe cron standard)
-    - cron: "*/10 * * * *"
+    - cron: "*/15 * * * *"
   workflow_dispatch:
     inputs:
       days_ahead:
