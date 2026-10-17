@@ -16,10 +16,24 @@ SUMMARY:[DISPO Stych] Gwendoline R.
 LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-03-19:15:00-20:00:00-ORVAULT-Gwendoline_R.@stych-available
-DTSTART;TZID=Europe/Paris:20261203T191500
-DTEND;TZID=Europe/Paris:20261203T200000
-SUMMARY:[DISPO Stych] Gwendoline R.
+UID:2026-12-01-16:15:00-17:00:00-ORVAULT-Philippe_B.@stych-available
+DTSTART;TZID=Europe/Paris:20261201T161500
+DTEND;TZID=Europe/Paris:20261201T170000
+SUMMARY:[DISPO Stych] Philippe B.
+LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-22-16:15:00-17:00:00-ORVAULT-Philippe_B.@stych-available
+DTSTART;TZID=Europe/Paris:20261222T161500
+DTEND;TZID=Europe/Paris:20261222T170000
+SUMMARY:[DISPO Stych] Philippe B.
+LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-29-16:15:00-17:00:00-ORVAULT-Philippe_B.@stych-available
+DTSTART;TZID=Europe/Paris:20261229T161500
+DTEND;TZID=Europe/Paris:20261229T170000
+SUMMARY:[DISPO Stych] Philippe B.
 LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
 END:VEVENT
 BEGIN:VEVENT
