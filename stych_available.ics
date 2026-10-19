@@ -2,55 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Stych Watcher - Dispo//FR
 BEGIN:VEVENT
-UID:2026-10-24-12:00:00-12:45:00-ST_HERBLAIN-Magalie_B.@stych-available
-DTSTART;TZID=Europe/Paris:20261024T120000
-DTEND;TZID=Europe/Paris:20261024T124500
-SUMMARY:[DISPO Stych] Magalie B.
-LOCATION:La tourmaline - IKEA, 0 boulevard Salvador allende Parking sous sol IKEA , ST HERBLAIN
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-24-13:15:00-14:45:00-ST_HERBLAIN-Magalie_B.@stych-available
-DTSTART;TZID=Europe/Paris:20261024T131500
-DTEND;TZID=Europe/Paris:20261024T144500
-SUMMARY:[DISPO Stych] Magalie B.
-LOCATION:La tourmaline - IKEA, 0 boulevard Salvador allende Parking sous sol IKEA , ST HERBLAIN
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-24-14:00:00-15:30:00-ST_HERBLAIN-Magalie_B.@stych-available
-DTSTART;TZID=Europe/Paris:20261024T140000
-DTEND;TZID=Europe/Paris:20261024T153000
-SUMMARY:[DISPO Stych] Magalie B.
-LOCATION:La tourmaline - IKEA, 0 boulevard Salvador allende Parking sous sol IKEA , ST HERBLAIN
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-24-14:45:00-16:15:00-ST_HERBLAIN-Magalie_B.@stych-available
-DTSTART;TZID=Europe/Paris:20261024T144500
-DTEND;TZID=Europe/Paris:20261024T161500
-SUMMARY:[DISPO Stych] Magalie B.
-LOCATION:La tourmaline - IKEA, 0 boulevard Salvador allende Parking sous sol IKEA , ST HERBLAIN
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-24-15:30:00-16:15:00-ST_HERBLAIN-Magalie_B.@stych-available
-DTSTART;TZID=Europe/Paris:20261024T153000
-DTEND;TZID=Europe/Paris:20261024T161500
-SUMMARY:[DISPO Stych] Magalie B.
-LOCATION:La tourmaline - IKEA, 0 boulevard Salvador allende Parking sous sol IKEA , ST HERBLAIN
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-28-16:00:00-17:30:00-ST_HERBLAIN-Magalie_B.@stych-available
-DTSTART;TZID=Europe/Paris:20261028T160000
-DTEND;TZID=Europe/Paris:20261028T173000
-SUMMARY:[DISPO Stych] Magalie B.
-LOCATION:La tourmaline - IKEA, 0 boulevard Salvador allende Parking sous sol IKEA , ST HERBLAIN
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-28-16:45:00-17:30:00-ST_HERBLAIN-Magalie_B.@stych-available
-DTSTART;TZID=Europe/Paris:20261028T164500
-DTEND;TZID=Europe/Paris:20261028T173000
-SUMMARY:[DISPO Stych] Magalie B.
-LOCATION:La tourmaline - IKEA, 0 boulevard Salvador allende Parking sous sol IKEA , ST HERBLAIN
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-10-29-09:30:00-11:00:00-ST_HERBLAIN-Magalie_B.@stych-available
 DTSTART;TZID=Europe/Paris:20261029T093000
 DTEND;TZID=Europe/Paris:20261029T110000
@@ -65,44 +16,9 @@ SUMMARY:[DISPO Stych] Magalie B.
 LOCATION:La tourmaline - IKEA, 0 boulevard Salvador allende Parking sous sol IKEA , ST HERBLAIN
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-29-14:00:00-15:30:00-ST_HERBLAIN-Magalie_B.@stych-available
-DTSTART;TZID=Europe/Paris:20261029T140000
-DTEND;TZID=Europe/Paris:20261029T153000
-SUMMARY:[DISPO Stych] Magalie B.
-LOCATION:La tourmaline - IKEA, 0 boulevard Salvador allende Parking sous sol IKEA , ST HERBLAIN
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-29-14:45:00-16:15:00-ST_HERBLAIN-Magalie_B.@stych-available
-DTSTART;TZID=Europe/Paris:20261029T144500
-DTEND;TZID=Europe/Paris:20261029T161500
-SUMMARY:[DISPO Stych] Magalie B.
-LOCATION:La tourmaline - IKEA, 0 boulevard Salvador allende Parking sous sol IKEA , ST HERBLAIN
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-29-15:30:00-17:00:00-ST_HERBLAIN-Magalie_B.@stych-available
-DTSTART;TZID=Europe/Paris:20261029T153000
-DTEND;TZID=Europe/Paris:20261029T170000
-SUMMARY:[DISPO Stych] Magalie B.
-LOCATION:La tourmaline - IKEA, 0 boulevard Salvador allende Parking sous sol IKEA , ST HERBLAIN
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-29-16:15:00-17:45:00-ST_HERBLAIN-Magalie_B.@stych-available
-DTSTART;TZID=Europe/Paris:20261029T161500
-DTEND;TZID=Europe/Paris:20261029T174500
-SUMMARY:[DISPO Stych] Magalie B.
-LOCATION:La tourmaline - IKEA, 0 boulevard Salvador allende Parking sous sol IKEA , ST HERBLAIN
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-29-17:00:00-18:30:00-ST_HERBLAIN-Magalie_B.@stych-available
+UID:2026-10-29-17:00:00-17:45:00-ST_HERBLAIN-Magalie_B.@stych-available
 DTSTART;TZID=Europe/Paris:20261029T170000
-DTEND;TZID=Europe/Paris:20261029T183000
-SUMMARY:[DISPO Stych] Magalie B.
-LOCATION:La tourmaline - IKEA, 0 boulevard Salvador allende Parking sous sol IKEA , ST HERBLAIN
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-29-17:45:00-18:30:00-ST_HERBLAIN-Magalie_B.@stych-available
-DTSTART;TZID=Europe/Paris:20261029T174500
-DTEND;TZID=Europe/Paris:20261029T183000
+DTEND;TZID=Europe/Paris:20261029T174500
 SUMMARY:[DISPO Stych] Magalie B.
 LOCATION:La tourmaline - IKEA, 0 boulevard Salvador allende Parking sous sol IKEA , ST HERBLAIN
 END:VEVENT
