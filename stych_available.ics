@@ -1,0 +1,2559 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Stych Watcher - Disponibles//FR
+BEGIN:VEVENT
+UID:2026-10-27-15:30:00-16:15:00-ORVAULT-Philippe_B.@stych-available
+DTSTART:20261027T153000
+DTEND:20261027T161500
+SUMMARY:[DISPO] Conduite avec Philippe B.
+LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-29-13:00:00-13:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261029T130000
+DTEND:20261029T134500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-29-15:45:00-16:30:00-NANTES-Gaëtan_C.@stych-available
+DTSTART:20261029T154500
+DTEND:20261029T163000
+SUMMARY:[DISPO] Conduite avec Gaëtan C.
+LOCATION:Tram 1 Laurier, 10 rue du Doubs à côté du Collège Claude Debussy, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-09-09:15:00-10:45:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261109T091500
+DTEND:20261109T104500
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-09-10:00:00-10:45:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261109T100000
+DTEND:20261109T104500
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-16-09:15:00-10:45:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261116T091500
+DTEND:20261116T104500
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-16-10:00:00-11:30:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261116T100000
+DTEND:20261116T113000
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-16-10:45:00-12:15:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261116T104500
+DTEND:20261116T121500
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-16-11:30:00-13:00:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261116T113000
+DTEND:20261116T130000
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-16-12:15:00-13:00:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261116T121500
+DTEND:20261116T130000
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-16-14:00:00-15:30:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261116T140000
+DTEND:20261116T153000
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-16-14:45:00-16:15:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261116T144500
+DTEND:20261116T161500
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-16-15:30:00-16:15:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261116T153000
+DTEND:20261116T161500
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-17-09:15:00-10:45:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261117T091500
+DTEND:20261117T104500
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-17-10:00:00-11:30:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261117T100000
+DTEND:20261117T113000
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-17-10:45:00-12:15:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261117T104500
+DTEND:20261117T121500
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-17-11:30:00-13:00:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261117T113000
+DTEND:20261117T130000
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-17-12:15:00-13:00:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261117T121500
+DTEND:20261117T130000
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-18-09:15:00-10:45:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261118T091500
+DTEND:20261118T104500
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-18-10:00:00-10:45:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261118T100000
+DTEND:20261118T104500
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-09:15:00-10:45:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261119T091500
+DTEND:20261119T104500
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-10:00:00-11:30:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261119T100000
+DTEND:20261119T113000
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-10:45:00-12:15:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261119T104500
+DTEND:20261119T121500
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-11:30:00-13:00:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261119T113000
+DTEND:20261119T130000
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-12:15:00-13:00:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261119T121500
+DTEND:20261119T130000
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-13:30:00-15:00:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261119T133000
+DTEND:20261119T150000
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-14:15:00-15:45:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261119T141500
+DTEND:20261119T154500
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-15:00:00-15:45:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261119T150000
+DTEND:20261119T154500
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-09:15:00-10:45:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261120T091500
+DTEND:20261120T104500
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-10:00:00-11:30:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261120T100000
+DTEND:20261120T113000
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-10:45:00-12:15:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261120T104500
+DTEND:20261120T121500
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-11:30:00-13:00:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261120T113000
+DTEND:20261120T130000
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-12:15:00-13:00:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261120T121500
+DTEND:20261120T130000
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-09:15:00-10:45:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261123T091500
+DTEND:20261123T104500
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-10:00:00-11:30:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261123T100000
+DTEND:20261123T113000
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-10:45:00-12:15:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261123T104500
+DTEND:20261123T121500
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-11:30:00-13:00:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261123T113000
+DTEND:20261123T130000
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-12:15:00-13:00:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261123T121500
+DTEND:20261123T130000
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-14:00:00-15:30:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261123T140000
+DTEND:20261123T153000
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-14:45:00-16:15:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261123T144500
+DTEND:20261123T161500
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-15:30:00-16:15:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261123T153000
+DTEND:20261123T161500
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-09:15:00-10:45:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261124T091500
+DTEND:20261124T104500
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-10:00:00-11:30:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261124T100000
+DTEND:20261124T113000
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-10:45:00-12:15:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261124T104500
+DTEND:20261124T121500
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-11:30:00-13:00:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261124T113000
+DTEND:20261124T130000
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-12:15:00-13:00:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261124T121500
+DTEND:20261124T130000
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-09:15:00-10:45:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261125T091500
+DTEND:20261125T104500
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-10:00:00-11:30:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261125T100000
+DTEND:20261125T113000
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-10:45:00-12:15:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261125T104500
+DTEND:20261125T121500
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-11:30:00-13:00:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261125T113000
+DTEND:20261125T130000
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-12:15:00-13:00:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261125T121500
+DTEND:20261125T130000
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-09:15:00-10:45:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261126T091500
+DTEND:20261126T104500
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-10:00:00-11:30:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261126T100000
+DTEND:20261126T113000
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-10:45:00-12:15:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261126T104500
+DTEND:20261126T121500
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-11:30:00-13:00:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261126T113000
+DTEND:20261126T130000
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-12:15:00-13:00:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261126T121500
+DTEND:20261126T130000
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-09:15:00-10:45:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261127T091500
+DTEND:20261127T104500
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-10:00:00-11:30:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261127T100000
+DTEND:20261127T113000
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-10:45:00-12:15:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261127T104500
+DTEND:20261127T121500
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-11:30:00-13:00:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261127T113000
+DTEND:20261127T130000
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-12:15:00-13:00:00-VERTOU-Magalie_B.@stych-available
+DTSTART:20261127T121500
+DTEND:20261127T130000
+SUMMARY:[DISPO] Conduite avec Magalie B.
+LOCATION:Gare de Vertou, 1 impasse gare de Vertou , VERTOU
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-08:45:00-09:30:00-NANTES-Gaëtan_C.@stych-available
+DTSTART:20261202T084500
+DTEND:20261202T093000
+SUMMARY:[DISPO] Conduite avec Gaëtan C.
+LOCATION:Tram 1 Laurier, 10 rue du Doubs à côté du Collège Claude Debussy, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-09:30:00-10:15:00-NANTES-Gaëtan_C.@stych-available
+DTSTART:20261202T093000
+DTEND:20261202T101500
+SUMMARY:[DISPO] Conduite avec Gaëtan C.
+LOCATION:Tram 1 Laurier, 10 rue du Doubs à côté du Collège Claude Debussy, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-10:00:00-11:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261207T100000
+DTEND:20261207T113000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-10:45:00-12:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261207T104500
+DTEND:20261207T121500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-11:30:00-12:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261207T113000
+DTEND:20261207T121500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-15:45:00-17:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261207T154500
+DTEND:20261207T171500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-16:30:00-18:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261207T163000
+DTEND:20261207T180000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-17:15:00-18:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261207T171500
+DTEND:20261207T180000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-19:45:00-20:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261207T194500
+DTEND:20261207T203000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-08-09:00:00-09:45:00-ST_SEBASTIEN_SUR_LOIRE-Lucie_B.@stych-available
+DTSTART:20261208T090000
+DTEND:20261208T094500
+SUMMARY:[DISPO] Conduite avec Lucie B.
+LOCATION:Auchan drive allee 39, 2 rue Pierre Mendès France "Porte grand lieu" allée 39, ST SEBASTIEN SUR LOIRE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-08:45:00-10:15:00-NANTES-Gaëtan_C.@stych-available
+DTSTART:20261209T084500
+DTEND:20261209T101500
+SUMMARY:[DISPO] Conduite avec Gaëtan C.
+LOCATION:Tram 1 Laurier, 10 rue du Doubs à côté du Collège Claude Debussy, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-09:00:00-10:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261209T090000
+DTEND:20261209T103000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-09:30:00-10:15:00-NANTES-Gaëtan_C.@stych-available
+DTSTART:20261209T093000
+DTEND:20261209T101500
+SUMMARY:[DISPO] Conduite avec Gaëtan C.
+LOCATION:Tram 1 Laurier, 10 rue du Doubs à côté du Collège Claude Debussy, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-09:45:00-11:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261209T094500
+DTEND:20261209T111500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-10:30:00-11:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261209T103000
+DTEND:20261209T111500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-13:00:00-13:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261209T130000
+DTEND:20261209T134500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-14:45:00-16:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261209T144500
+DTEND:20261209T161500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-15:30:00-17:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261209T153000
+DTEND:20261209T170000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-16:15:00-17:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261209T161500
+DTEND:20261209T170000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-09:45:00-11:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261210T094500
+DTEND:20261210T111500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-10:30:00-11:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261210T103000
+DTEND:20261210T111500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-11:30:00-13:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261210T113000
+DTEND:20261210T130000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-12:15:00-13:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261210T121500
+DTEND:20261210T134500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-13:00:00-13:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261210T130000
+DTEND:20261210T134500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-14:45:00-16:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261210T144500
+DTEND:20261210T161500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-15:30:00-17:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261210T153000
+DTEND:20261210T170000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-16:15:00-17:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261210T161500
+DTEND:20261210T170000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-17:15:00-18:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261210T171500
+DTEND:20261210T184500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-18:00:00-18:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261210T180000
+DTEND:20261210T184500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-09:00:00-10:30:00-ST_SEBASTIEN_SUR_LOIRE-Lucie_B.@stych-available
+DTSTART:20261211T090000
+DTEND:20261211T103000
+SUMMARY:[DISPO] Conduite avec Lucie B.
+LOCATION:Auchan drive allee 39, 2 rue Pierre Mendès France "Porte grand lieu" allée 39, ST SEBASTIEN SUR LOIRE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-09:45:00-10:30:00-ST_SEBASTIEN_SUR_LOIRE-Lucie_B.@stych-available
+DTSTART:20261211T094500
+DTEND:20261211T103000
+SUMMARY:[DISPO] Conduite avec Lucie B.
+LOCATION:Auchan drive allee 39, 2 rue Pierre Mendès France "Porte grand lieu" allée 39, ST SEBASTIEN SUR LOIRE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-10:00:00-11:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261211T100000
+DTEND:20261211T113000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-10:45:00-11:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261211T104500
+DTEND:20261211T113000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-12:30:00-14:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261211T123000
+DTEND:20261211T140000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-13:15:00-14:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261211T131500
+DTEND:20261211T144500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-14:00:00-14:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261211T140000
+DTEND:20261211T144500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-15:45:00-17:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261211T154500
+DTEND:20261211T171500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-16:30:00-18:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261211T163000
+DTEND:20261211T180000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-17:15:00-18:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261211T171500
+DTEND:20261211T180000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-18:15:00-19:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261211T181500
+DTEND:20261211T194500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-19:00:00-20:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261211T190000
+DTEND:20261211T203000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-19:45:00-20:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261211T194500
+DTEND:20261211T203000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-14-10:00:00-11:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261214T100000
+DTEND:20261214T113000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-14-10:45:00-12:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261214T104500
+DTEND:20261214T121500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-14-11:30:00-12:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261214T113000
+DTEND:20261214T121500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-14-14:00:00-14:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261214T140000
+DTEND:20261214T144500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-14-15:45:00-17:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261214T154500
+DTEND:20261214T171500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-14-16:30:00-18:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261214T163000
+DTEND:20261214T180000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-14-17:15:00-18:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261214T171500
+DTEND:20261214T180000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-14-19:45:00-20:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261214T194500
+DTEND:20261214T203000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-09:00:00-10:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261216T090000
+DTEND:20261216T103000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-09:45:00-11:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261216T094500
+DTEND:20261216T111500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-10:30:00-11:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261216T103000
+DTEND:20261216T111500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-13:00:00-13:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261216T130000
+DTEND:20261216T134500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-14:45:00-16:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261216T144500
+DTEND:20261216T161500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-15:30:00-17:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261216T153000
+DTEND:20261216T170000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-16:15:00-17:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261216T161500
+DTEND:20261216T170000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-17:15:00-18:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261216T171500
+DTEND:20261216T180000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-09:45:00-11:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261217T094500
+DTEND:20261217T111500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-10:30:00-11:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261217T103000
+DTEND:20261217T111500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-11:30:00-13:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261217T113000
+DTEND:20261217T130000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-12:15:00-13:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261217T121500
+DTEND:20261217T134500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-13:00:00-13:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261217T130000
+DTEND:20261217T134500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-14:45:00-16:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261217T144500
+DTEND:20261217T161500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-15:00:00-15:45:00-ST_SEBASTIEN_SUR_LOIRE-Lucie_B.@stych-available
+DTSTART:20261217T150000
+DTEND:20261217T154500
+SUMMARY:[DISPO] Conduite avec Lucie B.
+LOCATION:Auchan drive allee 39, 2 rue Pierre Mendès France "Porte grand lieu" allée 39, ST SEBASTIEN SUR LOIRE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-15:30:00-17:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261217T153000
+DTEND:20261217T170000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-16:15:00-17:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261217T161500
+DTEND:20261217T170000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-17:15:00-18:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261217T171500
+DTEND:20261217T184500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-18:00:00-19:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261217T180000
+DTEND:20261217T193000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-18:45:00-19:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261217T184500
+DTEND:20261217T193000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-10:00:00-11:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261218T100000
+DTEND:20261218T113000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-10:45:00-12:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261218T104500
+DTEND:20261218T121500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-11:30:00-12:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261218T113000
+DTEND:20261218T121500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-12:30:00-14:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261218T123000
+DTEND:20261218T140000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-13:15:00-14:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261218T131500
+DTEND:20261218T144500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-14:00:00-14:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261218T140000
+DTEND:20261218T144500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-15:45:00-17:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261218T154500
+DTEND:20261218T171500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-16:30:00-18:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261218T163000
+DTEND:20261218T180000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-17:15:00-18:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261218T171500
+DTEND:20261218T180000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-18:15:00-19:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261218T181500
+DTEND:20261218T194500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-19:00:00-20:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261218T190000
+DTEND:20261218T203000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-19:45:00-20:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261218T194500
+DTEND:20261218T203000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-11:30:00-12:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261221T113000
+DTEND:20261221T121500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-14:00:00-14:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261221T140000
+DTEND:20261221T144500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-15:45:00-17:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261221T154500
+DTEND:20261221T171500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-16:30:00-18:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261221T163000
+DTEND:20261221T180000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-17:15:00-18:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261221T171500
+DTEND:20261221T180000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-18:15:00-19:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261221T181500
+DTEND:20261221T194500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-19:00:00-20:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261221T190000
+DTEND:20261221T203000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-19:45:00-20:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261221T194500
+DTEND:20261221T203000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-23-09:00:00-10:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261223T090000
+DTEND:20261223T103000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-23-09:45:00-10:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261223T094500
+DTEND:20261223T103000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-23-13:00:00-13:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261223T130000
+DTEND:20261223T134500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-23-14:45:00-16:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261223T144500
+DTEND:20261223T161500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-23-15:30:00-17:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261223T153000
+DTEND:20261223T170000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-23-16:15:00-17:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261223T161500
+DTEND:20261223T170000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-23-17:15:00-18:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261223T171500
+DTEND:20261223T184500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-23-18:00:00-19:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261223T180000
+DTEND:20261223T193000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-23-18:45:00-19:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261223T184500
+DTEND:20261223T193000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-24-09:45:00-11:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261224T094500
+DTEND:20261224T111500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-24-10:30:00-11:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261224T103000
+DTEND:20261224T111500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-24-11:30:00-13:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261224T113000
+DTEND:20261224T130000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-24-12:15:00-13:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261224T121500
+DTEND:20261224T134500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-24-13:00:00-13:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261224T130000
+DTEND:20261224T134500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-24-14:45:00-16:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261224T144500
+DTEND:20261224T161500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-24-15:30:00-17:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261224T153000
+DTEND:20261224T170000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-24-16:15:00-17:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261224T161500
+DTEND:20261224T170000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-24-17:15:00-18:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261224T171500
+DTEND:20261224T184500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-24-18:00:00-19:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261224T180000
+DTEND:20261224T193000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-24-18:45:00-19:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261224T184500
+DTEND:20261224T193000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-26-08:15:00-09:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261226T081500
+DTEND:20261226T094500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-26-09:00:00-10:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261226T090000
+DTEND:20261226T103000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-26-09:45:00-10:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261226T094500
+DTEND:20261226T103000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-28-10:00:00-11:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261228T100000
+DTEND:20261228T113000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-28-10:45:00-12:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261228T104500
+DTEND:20261228T121500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-28-11:30:00-12:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261228T113000
+DTEND:20261228T121500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-28-14:00:00-14:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261228T140000
+DTEND:20261228T144500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-28-15:45:00-17:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261228T154500
+DTEND:20261228T171500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-28-16:30:00-18:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261228T163000
+DTEND:20261228T180000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-28-17:15:00-18:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261228T171500
+DTEND:20261228T180000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-28-18:15:00-19:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261228T181500
+DTEND:20261228T194500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-28-19:00:00-20:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261228T190000
+DTEND:20261228T203000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-28-19:45:00-20:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261228T194500
+DTEND:20261228T203000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-29-12:45:00-13:30:00-ST_SEBASTIEN_SUR_LOIRE-Lucie_B.@stych-available
+DTSTART:20261229T124500
+DTEND:20261229T133000
+SUMMARY:[DISPO] Conduite avec Lucie B.
+LOCATION:Auchan drive allee 39, 2 rue Pierre Mendès France "Porte grand lieu" allée 39, ST SEBASTIEN SUR LOIRE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-30-09:00:00-10:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261230T090000
+DTEND:20261230T103000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-30-09:45:00-11:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261230T094500
+DTEND:20261230T111500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-30-10:30:00-11:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261230T103000
+DTEND:20261230T111500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-30-11:30:00-13:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261230T113000
+DTEND:20261230T130000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-30-12:15:00-13:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261230T121500
+DTEND:20261230T130000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-30-14:45:00-16:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261230T144500
+DTEND:20261230T161500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-30-15:30:00-17:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261230T153000
+DTEND:20261230T170000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-30-16:15:00-17:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261230T161500
+DTEND:20261230T170000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-30-17:15:00-18:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261230T171500
+DTEND:20261230T184500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-30-18:00:00-19:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261230T180000
+DTEND:20261230T193000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-30-18:45:00-19:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261230T184500
+DTEND:20261230T193000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-31-08:00:00-08:45:00-ORVAULT-Philippe_B.@stych-available
+DTSTART:20261231T080000
+DTEND:20261231T084500
+SUMMARY:[DISPO] Conduite avec Philippe B.
+LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-31-09:45:00-11:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261231T094500
+DTEND:20261231T111500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-31-10:30:00-11:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261231T103000
+DTEND:20261231T111500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-31-11:30:00-13:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261231T113000
+DTEND:20261231T130000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-31-12:15:00-13:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261231T121500
+DTEND:20261231T134500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-31-13:00:00-13:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261231T130000
+DTEND:20261231T134500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-31-14:45:00-16:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261231T144500
+DTEND:20261231T161500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-31-15:30:00-17:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261231T153000
+DTEND:20261231T170000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-31-16:15:00-17:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261231T161500
+DTEND:20261231T170000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-31-17:15:00-18:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261231T171500
+DTEND:20261231T184500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-31-18:00:00-19:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261231T180000
+DTEND:20261231T193000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-31-18:45:00-19:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261231T184500
+DTEND:20261231T193000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-02-09:45:00-11:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270102T094500
+DTEND:20270102T111500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-02-10:30:00-12:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270102T103000
+DTEND:20270102T120000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-02-11:15:00-12:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270102T111500
+DTEND:20270102T120000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-04-10:00:00-11:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270104T100000
+DTEND:20270104T113000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-04-10:45:00-12:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270104T104500
+DTEND:20270104T121500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-04-11:30:00-12:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270104T113000
+DTEND:20270104T121500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-04-12:30:00-14:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270104T123000
+DTEND:20270104T140000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-04-13:15:00-14:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270104T131500
+DTEND:20270104T144500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-04-14:00:00-14:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270104T140000
+DTEND:20270104T144500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-04-15:45:00-17:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270104T154500
+DTEND:20270104T171500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-04-16:30:00-18:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270104T163000
+DTEND:20270104T180000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-04-17:15:00-18:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270104T171500
+DTEND:20270104T180000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-04-18:15:00-19:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270104T181500
+DTEND:20270104T194500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-04-19:00:00-20:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270104T190000
+DTEND:20270104T203000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-04-19:45:00-20:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270104T194500
+DTEND:20270104T203000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-06-09:00:00-10:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270106T090000
+DTEND:20270106T103000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-06-09:45:00-11:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270106T094500
+DTEND:20270106T111500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-06-10:30:00-11:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270106T103000
+DTEND:20270106T111500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-06-11:30:00-13:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270106T113000
+DTEND:20270106T130000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-06-12:15:00-13:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270106T121500
+DTEND:20270106T134500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-06-13:00:00-13:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270106T130000
+DTEND:20270106T134500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-06-14:45:00-16:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270106T144500
+DTEND:20270106T161500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-06-15:30:00-17:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270106T153000
+DTEND:20270106T170000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-06-16:15:00-17:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270106T161500
+DTEND:20270106T170000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-06-17:15:00-18:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270106T171500
+DTEND:20270106T184500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-06-18:00:00-19:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270106T180000
+DTEND:20270106T193000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-06-18:45:00-19:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270106T184500
+DTEND:20270106T193000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-07-09:45:00-11:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270107T094500
+DTEND:20270107T111500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-07-10:30:00-11:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270107T103000
+DTEND:20270107T111500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-07-11:30:00-13:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270107T113000
+DTEND:20270107T130000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-07-12:15:00-13:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270107T121500
+DTEND:20270107T134500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-07-13:00:00-13:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270107T130000
+DTEND:20270107T134500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-07-14:45:00-16:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270107T144500
+DTEND:20270107T161500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-07-15:30:00-17:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270107T153000
+DTEND:20270107T170000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-07-16:15:00-17:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270107T161500
+DTEND:20270107T170000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-07-17:15:00-18:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270107T171500
+DTEND:20270107T184500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-07-18:00:00-19:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270107T180000
+DTEND:20270107T193000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-07-18:45:00-19:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270107T184500
+DTEND:20270107T193000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-10:00:00-11:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270108T100000
+DTEND:20270108T113000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-10:30:00-12:00:00-ST_SEBASTIEN_SUR_LOIRE-Lucie_B.@stych-available
+DTSTART:20270108T103000
+DTEND:20270108T120000
+SUMMARY:[DISPO] Conduite avec Lucie B.
+LOCATION:Auchan drive allee 39, 2 rue Pierre Mendès France "Porte grand lieu" allée 39, ST SEBASTIEN SUR LOIRE
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-10:45:00-12:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270108T104500
+DTEND:20270108T121500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-11:15:00-12:00:00-ST_SEBASTIEN_SUR_LOIRE-Lucie_B.@stych-available
+DTSTART:20270108T111500
+DTEND:20270108T120000
+SUMMARY:[DISPO] Conduite avec Lucie B.
+LOCATION:Auchan drive allee 39, 2 rue Pierre Mendès France "Porte grand lieu" allée 39, ST SEBASTIEN SUR LOIRE
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-11:30:00-12:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270108T113000
+DTEND:20270108T121500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-12:30:00-14:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270108T123000
+DTEND:20270108T140000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-13:15:00-14:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270108T131500
+DTEND:20270108T144500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-14:00:00-14:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270108T140000
+DTEND:20270108T144500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-15:45:00-17:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270108T154500
+DTEND:20270108T171500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-16:30:00-18:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270108T163000
+DTEND:20270108T180000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-17:15:00-18:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270108T171500
+DTEND:20270108T180000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-18:15:00-19:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270108T181500
+DTEND:20270108T194500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-19:00:00-20:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270108T190000
+DTEND:20270108T203000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-19:45:00-20:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270108T194500
+DTEND:20270108T203000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-09-08:15:00-09:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270109T081500
+DTEND:20270109T090000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-09-10:30:00-12:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270109T103000
+DTEND:20270109T120000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-09-11:15:00-12:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270109T111500
+DTEND:20270109T120000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-11-10:00:00-11:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270111T100000
+DTEND:20270111T113000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-11-10:45:00-12:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270111T104500
+DTEND:20270111T121500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-11-11:30:00-12:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270111T113000
+DTEND:20270111T121500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-11-12:30:00-14:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270111T123000
+DTEND:20270111T140000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-11-13:15:00-14:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270111T131500
+DTEND:20270111T144500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-11-14:00:00-14:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270111T140000
+DTEND:20270111T144500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-11-15:45:00-17:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270111T154500
+DTEND:20270111T171500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-11-16:30:00-18:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270111T163000
+DTEND:20270111T180000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-11-17:15:00-18:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270111T171500
+DTEND:20270111T180000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-11-18:15:00-19:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270111T181500
+DTEND:20270111T194500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-11-19:00:00-20:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270111T190000
+DTEND:20270111T203000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-11-19:45:00-20:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270111T194500
+DTEND:20270111T203000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-13-08:45:00-10:15:00-NANTES-Gaëtan_C.@stych-available
+DTSTART:20270113T084500
+DTEND:20270113T101500
+SUMMARY:[DISPO] Conduite avec Gaëtan C.
+LOCATION:Tram 1 Laurier, 10 rue du Doubs à côté du Collège Claude Debussy, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-13-09:00:00-10:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270113T090000
+DTEND:20270113T103000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-13-09:30:00-10:15:00-NANTES-Gaëtan_C.@stych-available
+DTSTART:20270113T093000
+DTEND:20270113T101500
+SUMMARY:[DISPO] Conduite avec Gaëtan C.
+LOCATION:Tram 1 Laurier, 10 rue du Doubs à côté du Collège Claude Debussy, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-13-09:45:00-11:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270113T094500
+DTEND:20270113T111500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-13-10:30:00-11:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270113T103000
+DTEND:20270113T111500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-13-11:30:00-13:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270113T113000
+DTEND:20270113T130000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-13-12:15:00-13:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270113T121500
+DTEND:20270113T134500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-13-13:00:00-13:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270113T130000
+DTEND:20270113T134500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-13-14:45:00-16:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270113T144500
+DTEND:20270113T161500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-13-15:30:00-17:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270113T153000
+DTEND:20270113T170000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-13-16:15:00-17:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270113T161500
+DTEND:20270113T170000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-13-17:15:00-18:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270113T171500
+DTEND:20270113T184500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-13-18:00:00-19:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270113T180000
+DTEND:20270113T193000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-13-18:45:00-19:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270113T184500
+DTEND:20270113T193000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-14-09:45:00-11:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270114T094500
+DTEND:20270114T111500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-14-10:30:00-11:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270114T103000
+DTEND:20270114T111500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-14-11:30:00-13:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270114T113000
+DTEND:20270114T130000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-14-12:15:00-13:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270114T121500
+DTEND:20270114T134500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-14-13:00:00-13:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270114T130000
+DTEND:20270114T134500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-14-14:45:00-16:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270114T144500
+DTEND:20270114T161500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-14-15:30:00-17:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270114T153000
+DTEND:20270114T170000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-14-16:15:00-17:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270114T161500
+DTEND:20270114T170000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-14-17:15:00-18:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270114T171500
+DTEND:20270114T184500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-14-18:00:00-19:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270114T180000
+DTEND:20270114T193000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-14-18:45:00-19:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270114T184500
+DTEND:20270114T193000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-10:00:00-11:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270115T100000
+DTEND:20270115T113000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-10:45:00-12:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270115T104500
+DTEND:20270115T121500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-11:30:00-12:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270115T113000
+DTEND:20270115T121500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-12:30:00-14:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270115T123000
+DTEND:20270115T140000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-13:15:00-14:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270115T131500
+DTEND:20270115T144500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-14:00:00-14:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270115T140000
+DTEND:20270115T144500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-15:45:00-17:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270115T154500
+DTEND:20270115T171500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-16:30:00-18:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270115T163000
+DTEND:20270115T180000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-17:15:00-18:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270115T171500
+DTEND:20270115T180000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-18:15:00-19:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270115T181500
+DTEND:20270115T194500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-19:00:00-20:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270115T190000
+DTEND:20270115T203000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-19:45:00-20:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270115T194500
+DTEND:20270115T203000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-16-08:15:00-09:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270116T081500
+DTEND:20270116T094500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-16-09:00:00-10:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270116T090000
+DTEND:20270116T103000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-16-09:45:00-11:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270116T094500
+DTEND:20270116T111500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-16-10:30:00-12:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270116T103000
+DTEND:20270116T120000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-16-11:15:00-12:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270116T111500
+DTEND:20270116T120000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-18-10:00:00-11:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270118T100000
+DTEND:20270118T113000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-18-10:45:00-12:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270118T104500
+DTEND:20270118T121500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-18-11:30:00-12:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270118T113000
+DTEND:20270118T121500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-18-12:30:00-14:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270118T123000
+DTEND:20270118T140000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-18-13:15:00-14:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270118T131500
+DTEND:20270118T144500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-18-14:00:00-14:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270118T140000
+DTEND:20270118T144500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-18-15:45:00-17:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270118T154500
+DTEND:20270118T171500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-18-16:30:00-18:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270118T163000
+DTEND:20270118T180000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-18-17:15:00-18:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270118T171500
+DTEND:20270118T180000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-18-18:15:00-19:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270118T181500
+DTEND:20270118T194500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-18-19:00:00-20:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270118T190000
+DTEND:20270118T203000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-18-19:45:00-20:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270118T194500
+DTEND:20270118T203000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-09:00:00-10:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270120T090000
+DTEND:20270120T103000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-09:45:00-11:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270120T094500
+DTEND:20270120T111500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-10:30:00-11:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270120T103000
+DTEND:20270120T111500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-11:30:00-13:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270120T113000
+DTEND:20270120T130000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-12:15:00-13:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270120T121500
+DTEND:20270120T134500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-13:00:00-13:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270120T130000
+DTEND:20270120T134500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-14:45:00-16:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270120T144500
+DTEND:20270120T161500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-15:30:00-17:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270120T153000
+DTEND:20270120T170000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-16:15:00-17:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270120T161500
+DTEND:20270120T170000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-17:15:00-18:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270120T171500
+DTEND:20270120T184500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-18:00:00-19:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270120T180000
+DTEND:20270120T193000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-18:45:00-19:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270120T184500
+DTEND:20270120T193000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-21-09:45:00-11:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270121T094500
+DTEND:20270121T111500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-21-10:30:00-11:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270121T103000
+DTEND:20270121T111500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-21-11:30:00-13:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270121T113000
+DTEND:20270121T130000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-21-12:15:00-13:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270121T121500
+DTEND:20270121T134500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-21-13:00:00-13:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270121T130000
+DTEND:20270121T134500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-21-14:45:00-16:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270121T144500
+DTEND:20270121T161500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-21-15:30:00-17:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270121T153000
+DTEND:20270121T170000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-21-16:15:00-17:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270121T161500
+DTEND:20270121T170000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-21-17:15:00-18:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270121T171500
+DTEND:20270121T184500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-21-18:00:00-19:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270121T180000
+DTEND:20270121T193000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-21-18:45:00-19:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270121T184500
+DTEND:20270121T193000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-10:00:00-11:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270122T100000
+DTEND:20270122T113000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-10:45:00-12:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270122T104500
+DTEND:20270122T121500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-11:30:00-12:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270122T113000
+DTEND:20270122T121500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-12:30:00-14:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270122T123000
+DTEND:20270122T140000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-13:15:00-14:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270122T131500
+DTEND:20270122T144500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-14:00:00-14:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270122T140000
+DTEND:20270122T144500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-14:15:00-15:00:00-ST_SEBASTIEN_SUR_LOIRE-Lucie_B.@stych-available
+DTSTART:20270122T141500
+DTEND:20270122T150000
+SUMMARY:[DISPO] Conduite avec Lucie B.
+LOCATION:Auchan drive allee 39, 2 rue Pierre Mendès France "Porte grand lieu" allée 39, ST SEBASTIEN SUR LOIRE
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-15:45:00-17:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270122T154500
+DTEND:20270122T171500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-16:30:00-18:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270122T163000
+DTEND:20270122T180000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-17:15:00-18:00:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270122T171500
+DTEND:20270122T180000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-18:15:00-19:45:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270122T181500
+DTEND:20270122T194500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-19:00:00-20:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270122T190000
+DTEND:20270122T203000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-19:45:00-20:30:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270122T194500
+DTEND:20270122T203000
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+END:VCALENDAR
