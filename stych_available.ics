@@ -2,9 +2,37 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Stych Watcher - Disponibles//FR
 BEGIN:VEVENT
+UID:2026-12-24-14:00:00-15:30:00-ORVAULT-Philippe_B.@stych-available
+DTSTART:20261224T140000
+DTEND:20261224T153000
+SUMMARY:[DISPO] Conduite avec Philippe B.
+LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-24-14:45:00-15:30:00-ORVAULT-Philippe_B.@stych-available
+DTSTART:20261224T144500
+DTEND:20261224T153000
+SUMMARY:[DISPO] Conduite avec Philippe B.
+LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-31-08:00:00-08:45:00-ORVAULT-Philippe_B.@stych-available
 DTSTART:20261231T080000
 DTEND:20261231T084500
+SUMMARY:[DISPO] Conduite avec Philippe B.
+LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-31-14:45:00-16:15:00-ORVAULT-Philippe_B.@stych-available
+DTSTART:20261231T144500
+DTEND:20261231T161500
+SUMMARY:[DISPO] Conduite avec Philippe B.
+LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-31-15:30:00-16:15:00-ORVAULT-Philippe_B.@stych-available
+DTSTART:20261231T153000
+DTEND:20261231T161500
 SUMMARY:[DISPO] Conduite avec Philippe B.
 LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
 END:VEVENT
