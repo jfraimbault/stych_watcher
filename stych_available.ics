@@ -1,11 +1,4 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Stych Watcher - Disponibles//FR
-BEGIN:VEVENT
-UID:2026-12-31-08:00:00-08:45:00-ORVAULT-Philippe_B.@stych-available
-DTSTART:20261231T080000
-DTEND:20261231T084500
-SUMMARY:[DISPO] Conduite avec Philippe B.
-LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
-END:VEVENT
 END:VCALENDAR
