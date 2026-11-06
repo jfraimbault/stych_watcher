@@ -8,4 +8,11 @@ DTEND:20270202T161500
 SUMMARY:[DISPO] Conduite avec Philippe B.
 LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
 END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-04-15:30:00-16:15:00-ORVAULT-Philippe_B.@stych-available
+DTSTART:20270204T153000
+DTEND:20270204T161500
+SUMMARY:[DISPO] Conduite avec Philippe B.
+LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
+END:VEVENT
 END:VCALENDAR
