@@ -128,13 +128,6 @@ SUMMARY:[DISPO] Conduite avec Jérémie A.
 LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-23-16:00:00-16:45:00-ORVAULT-Gwendoline_R.@stych-available
-DTSTART:20261223T160000
-DTEND:20261223T164500
-SUMMARY:[DISPO] Conduite avec Gwendoline R.
-LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-12-23-18:45:00-19:30:00-NANTES-Jérémie_A.@stych-available
 DTSTART:20261223T184500
 DTEND:20261223T193000
@@ -240,16 +233,9 @@ SUMMARY:[DISPO] Conduite avec Gwendoline R.
 LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-28-15:00:00-16:30:00-ORVAULT-Gwendoline_R.@stych-available
+UID:2026-12-28-15:00:00-15:45:00-ORVAULT-Gwendoline_R.@stych-available
 DTSTART:20261228T150000
-DTEND:20261228T163000
-SUMMARY:[DISPO] Conduite avec Gwendoline R.
-LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-12-28-15:45:00-16:30:00-ORVAULT-Gwendoline_R.@stych-available
-DTSTART:20261228T154500
-DTEND:20261228T163000
+DTEND:20261228T154500
 SUMMARY:[DISPO] Conduite avec Gwendoline R.
 LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
 END:VEVENT
@@ -271,20 +257,6 @@ BEGIN:VEVENT
 UID:2026-12-29-16:15:00-17:00:00-ORVAULT-Gwendoline_R.@stych-available
 DTSTART:20261229T161500
 DTEND:20261229T170000
-SUMMARY:[DISPO] Conduite avec Gwendoline R.
-LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-12-29-18:45:00-20:15:00-ORVAULT-Gwendoline_R.@stych-available
-DTSTART:20261229T184500
-DTEND:20261229T201500
-SUMMARY:[DISPO] Conduite avec Gwendoline R.
-LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-12-29-19:30:00-20:15:00-ORVAULT-Gwendoline_R.@stych-available
-DTSTART:20261229T193000
-DTEND:20261229T201500
 SUMMARY:[DISPO] Conduite avec Gwendoline R.
 LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
 END:VEVENT
