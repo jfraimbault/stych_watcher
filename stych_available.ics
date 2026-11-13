@@ -240,13 +240,6 @@ SUMMARY:[DISPO] Conduite avec Gwendoline R.
 LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-29-09:45:00-10:30:00-ORVAULT-Philippe_B.@stych-available
-DTSTART:20261229T094500
-DTEND:20261229T103000
-SUMMARY:[DISPO] Conduite avec Philippe B.
-LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-12-29-13:00:00-13:45:00-ORVAULT-Gwendoline_R.@stych-available
 DTSTART:20261229T130000
 DTEND:20261229T134500
@@ -321,13 +314,6 @@ UID:2026-12-30-19:30:00-20:15:00-ORVAULT-Gwendoline_R.@stych-available
 DTSTART:20261230T193000
 DTEND:20261230T201500
 SUMMARY:[DISPO] Conduite avec Gwendoline R.
-LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-12-31-08:00:00-08:45:00-ORVAULT-Philippe_B.@stych-available
-DTSTART:20261231T080000
-DTEND:20261231T084500
-SUMMARY:[DISPO] Conduite avec Philippe B.
 LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
 END:VEVENT
 BEGIN:VEVENT
