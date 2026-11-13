@@ -1,11 +1,4 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Stych Watcher - Disponibles//FR
-BEGIN:VEVENT
-UID:2026-11-16-15:45:00-16:30:00-NANTES-Jérémie_A.@stych-available
-DTSTART:20261116T154500
-DTEND:20261116T163000
-SUMMARY:[DISPO] Conduite avec Jérémie A.
-LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
-END:VEVENT
 END:VCALENDAR
