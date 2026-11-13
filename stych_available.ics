@@ -2,11 +2,39 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Stych Watcher - Disponibles//FR
 BEGIN:VEVENT
+UID:2026-11-24-16:30:00-18:00:00-NANTES-Gaëtan_C.@stych-available
+DTSTART:20261124T163000
+DTEND:20261124T180000
+SUMMARY:[DISPO] Conduite avec Gaëtan C.
+LOCATION:Tram 1 Laurier, 10 rue du Doubs à côté du Collège Claude Debussy, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-17:15:00-18:00:00-NANTES-Gaëtan_C.@stych-available
+DTSTART:20261124T171500
+DTEND:20261124T180000
+SUMMARY:[DISPO] Conduite avec Gaëtan C.
+LOCATION:Tram 1 Laurier, 10 rue du Doubs à côté du Collège Claude Debussy, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-15:45:00-16:30:00-NANTES-Gaëtan_C.@stych-available
+DTSTART:20261204T154500
+DTEND:20261204T163000
+SUMMARY:[DISPO] Conduite avec Gaëtan C.
+LOCATION:Tram 1 Laurier, 10 rue du Doubs à côté du Collège Claude Debussy, NANTES
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-10-17:15:00-18:00:00-NANTES-Jérémie_A.@stych-available
 DTSTART:20261210T171500
 DTEND:20261210T180000
 SUMMARY:[DISPO] Conduite avec Jérémie A.
 LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-15:45:00-16:30:00-NANTES-Gaëtan_C.@stych-available
+DTSTART:20261211T154500
+DTEND:20261211T163000
+SUMMARY:[DISPO] Conduite avec Gaëtan C.
+LOCATION:Tram 1 Laurier, 10 rue du Doubs à côté du Collège Claude Debussy, NANTES
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-15:30:00-16:15:00-ORVAULT-Gwendoline_R.@stych-available
@@ -23,11 +51,39 @@ SUMMARY:[DISPO] Conduite avec Gwendoline R.
 LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-17-16:30:00-18:00:00-NANTES-Gaëtan_C.@stych-available
+DTSTART:20261217T163000
+DTEND:20261217T180000
+SUMMARY:[DISPO] Conduite avec Gaëtan C.
+LOCATION:Tram 1 Laurier, 10 rue du Doubs à côté du Collège Claude Debussy, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-17:15:00-18:00:00-NANTES-Gaëtan_C.@stych-available
+DTSTART:20261217T171500
+DTEND:20261217T180000
+SUMMARY:[DISPO] Conduite avec Gaëtan C.
+LOCATION:Tram 1 Laurier, 10 rue du Doubs à côté du Collège Claude Debussy, NANTES
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-18-15:45:00-16:30:00-NANTES-Jérémie_A.@stych-available
 DTSTART:20261218T154500
 DTEND:20261218T163000
 SUMMARY:[DISPO] Conduite avec Jérémie A.
 LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-16:30:00-18:00:00-NANTES-Gaëtan_C.@stych-available
+DTSTART:20261218T163000
+DTEND:20261218T180000
+SUMMARY:[DISPO] Conduite avec Gaëtan C.
+LOCATION:Tram 1 Laurier, 10 rue du Doubs à côté du Collège Claude Debussy, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-17:15:00-18:00:00-NANTES-Gaëtan_C.@stych-available
+DTSTART:20261218T171500
+DTEND:20261218T180000
+SUMMARY:[DISPO] Conduite avec Gaëtan C.
+LOCATION:Tram 1 Laurier, 10 rue du Doubs à côté du Collège Claude Debussy, NANTES
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-08:00:00-09:30:00-ORVAULT-Gwendoline_R.@stych-available
@@ -107,11 +163,25 @@ SUMMARY:[DISPO] Conduite avec Gwendoline R.
 LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-23-09:30:00-11:00:00-NANTES-Gaëtan_C.@stych-available
+DTSTART:20261223T093000
+DTEND:20261223T110000
+SUMMARY:[DISPO] Conduite avec Gaëtan C.
+LOCATION:Tram 1 Laurier, 10 rue du Doubs à côté du Collège Claude Debussy, NANTES
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-23-09:45:00-10:30:00-ORVAULT-Gwendoline_R.@stych-available
 DTSTART:20261223T094500
 DTEND:20261223T103000
 SUMMARY:[DISPO] Conduite avec Gwendoline R.
 LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-23-10:15:00-11:00:00-NANTES-Gaëtan_C.@stych-available
+DTSTART:20261223T101500
+DTEND:20261223T110000
+SUMMARY:[DISPO] Conduite avec Gaëtan C.
+LOCATION:Tram 1 Laurier, 10 rue du Doubs à côté du Collège Claude Debussy, NANTES
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-23-11:30:00-13:00:00-ORVAULT-Gwendoline_R.@stych-available
@@ -646,16 +716,9 @@ SUMMARY:[DISPO] Conduite avec Jérémie A.
 LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
 END:VEVENT
 BEGIN:VEVENT
-UID:2027-01-15-15:45:00-17:15:00-NANTES-Gaëtan_C.@stych-available
+UID:2027-01-15-15:45:00-16:30:00-NANTES-Gaëtan_C.@stych-available
 DTSTART:20270115T154500
-DTEND:20270115T171500
-SUMMARY:[DISPO] Conduite avec Gaëtan C.
-LOCATION:Tram 1 Laurier, 10 rue du Doubs à côté du Collège Claude Debussy, NANTES
-END:VEVENT
-BEGIN:VEVENT
-UID:2027-01-15-16:30:00-17:15:00-NANTES-Gaëtan_C.@stych-available
-DTSTART:20270115T163000
-DTEND:20270115T171500
+DTEND:20270115T163000
 SUMMARY:[DISPO] Conduite avec Gaëtan C.
 LOCATION:Tram 1 Laurier, 10 rue du Doubs à côté du Collège Claude Debussy, NANTES
 END:VEVENT
