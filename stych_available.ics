@@ -366,6 +366,13 @@ SUMMARY:[DISPO] Conduite avec Gwendoline R.
 LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-01-06-15:30:00-16:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20270106T153000
+DTEND:20270106T161500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-01-06-16:00:00-16:45:00-ORVAULT-Gwendoline_R.@stych-available
 DTSTART:20270106T160000
 DTEND:20270106T164500
