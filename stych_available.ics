@@ -22,25 +22,4 @@ DTEND:20261123T201500
 SUMMARY:[DISPO] Conduite avec Jérémie A.
 LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
 END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-24-18:30:00-20:00:00-NANTES-Gwendoline_R.@stych-available
-DTSTART:20261124T183000
-DTEND:20261124T200000
-SUMMARY:[DISPO] Conduite avec Gwendoline R.
-LOCATION:Les Facs, 21 boulevard Guy Mollet , NANTES
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-24-19:15:00-20:00:00-NANTES-Gwendoline_R.@stych-available
-DTSTART:20261124T191500
-DTEND:20261124T200000
-SUMMARY:[DISPO] Conduite avec Gwendoline R.
-LOCATION:Les Facs, 21 boulevard Guy Mollet , NANTES
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-25-19:15:00-20:00:00-NANTES-Gwendoline_R.@stych-available
-DTSTART:20261125T191500
-DTEND:20261125T200000
-SUMMARY:[DISPO] Conduite avec Gwendoline R.
-LOCATION:Les Facs, 21 boulevard Guy Mollet , NANTES
-END:VEVENT
 END:VCALENDAR
