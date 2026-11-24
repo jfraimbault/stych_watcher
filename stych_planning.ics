@@ -30,7 +30,7 @@ SUMMARY:Conduite avec R Gwendoline
 LOCATION:Les Facs, 21 boulevard Guy Mollet, NANTES
 END:VEVENT
 BEGIN:VEVENT
-UID:event-drive-7960411@stych-watcher
+UID:event-drive-8012532@stych-watcher
 DTSTART;TZID=Europe/Paris:20261209T143000
 DTEND;TZID=Europe/Paris:20261209T160000
 SUMMARY:Conduite avec R Gwendoline
