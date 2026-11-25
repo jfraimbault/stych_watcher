@@ -20,14 +20,14 @@ UID:event-drive-7726516@stych-watcher
 DTSTART;TZID=Europe/Paris:20261110T174500
 DTEND;TZID=Europe/Paris:20261110T191500
 SUMMARY:Conduite avec R Gwendoline
-LOCATION:Les Facs, 21 boulevard Guy Mollet, NANTES
+LOCATION:Les Facs, 21 boulevard Guy Mollet Arret Facultés bus 75, NANTES
 END:VEVENT
 BEGIN:VEVENT
 UID:event-drive-8005869@stych-watcher
 DTSTART;TZID=Europe/Paris:20261125T160000
 DTEND;TZID=Europe/Paris:20261125T164500
 SUMMARY:Conduite avec R Gwendoline
-LOCATION:Les Facs, 21 boulevard Guy Mollet, NANTES
+LOCATION:Les Facs, 21 boulevard Guy Mollet Arret Facultés bus 75, NANTES
 END:VEVENT
 BEGIN:VEVENT
 UID:event-drive-8012571@stych-watcher
