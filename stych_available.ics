@@ -1,4 +1,32 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Stych Watcher - Disponibles//FR
+BEGIN:VEVENT
+UID:2026-11-30-15:45:00-16:30:00-ORVAULT-Gwendoline_R.@stych-available
+DTSTART:20261130T154500
+DTEND:20261130T163000
+SUMMARY:[DISPO] Conduite avec Gwendoline R.
+LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-15:45:00-17:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261130T154500
+DTEND:20261130T171500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-16:30:00-17:15:00-NANTES-Jérémie_A.@stych-available
+DTSTART:20261130T163000
+DTEND:20261130T171500
+SUMMARY:[DISPO] Conduite avec Jérémie A.
+LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-16:45:00-17:30:00-ORVAULT-Gwendoline_R.@stych-available
+DTSTART:20261130T164500
+DTEND:20261130T173000
+SUMMARY:[DISPO] Conduite avec Gwendoline R.
+LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
+END:VEVENT
 END:VCALENDAR
