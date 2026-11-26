@@ -22,11 +22,4 @@ DTEND:20261130T171500
 SUMMARY:[DISPO] Conduite avec Jérémie A.
 LOCATION:Intermarché Éraudière, 173 route de Saint Joseph Face entrée Principale Intermarché, NANTES
 END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-30-16:45:00-17:30:00-ORVAULT-Gwendoline_R.@stych-available
-DTSTART:20261130T164500
-DTEND:20261130T173000
-SUMMARY:[DISPO] Conduite avec Gwendoline R.
-LOCATION:Le Cardo T2, 215 route de Rennes - en face de Materiel.net, ORVAULT
-END:VEVENT
 END:VCALENDAR
